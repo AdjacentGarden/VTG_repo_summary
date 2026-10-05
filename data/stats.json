@@ -1,0 +1,71 @@
+{
+  "checked_at": "2026-10-05",
+  "total": 419,
+  "ccf_grades": {
+    "A": 278,
+    "B": 141
+  },
+  "publication_types": {
+    "conference": 294,
+    "journal": 125
+  },
+  "by_year": {
+    "2026": 80,
+    "2025": 86,
+    "2024": 71,
+    "2023": 60,
+    "2022": 45,
+    "2021": 36,
+    "2020": 21,
+    "2019": 11,
+    "2018": 5,
+    "2017": 3,
+    "2013": 1
+  },
+  "by_venue": {
+    "AAAI": 43,
+    "ACL": 8,
+    "ACM MM": 36,
+    "CIKM": 1,
+    "COLING": 3,
+    "CVIU": 3,
+    "CVPR": 52,
+    "DASFAA": 1,
+    "ECCV": 21,
+    "EMNLP": 11,
+    "ICASSP": 16,
+    "ICCV": 28,
+    "ICLR": 8,
+    "ICME": 19,
+    "ICML": 8,
+    "ICMR": 10,
+    "IJCAI": 1,
+    "IJCV": 3,
+    "IPM": 2,
+    "Information Sciences": 2,
+    "MICCAI": 1,
+    "NAACL": 1,
+    "NeurIPS": 16,
+    "Neural Networks": 1,
+    "PR": 6,
+    "SIGIR": 10,
+    "TACL": 1,
+    "TCSVT": 25,
+    "TIP": 17,
+    "TITS": 1,
+    "TMM": 37,
+    "TNNLS": 3,
+    "TOIS": 3,
+    "TOMM": 12,
+    "TPAMI": 9
+  },
+  "scope": {
+    "core": 402,
+    "dataset": 1,
+    "pretraining": 1,
+    "temporal_evidence_qa": 15
+  },
+  "with_code_link": 92,
+  "with_chinese_summary": 50,
+  "supplementary": 11
+}

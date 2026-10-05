@@ -1,0 +1,352 @@
+[
+  {
+    "venue": "AAAI",
+    "name": "AAAI Conference on Artificial Intelligence",
+    "ccf_grade": "A",
+    "publication_type": "conference",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "ACL",
+    "name": "Annual Meeting of the Association for Computational Linguistics",
+    "ccf_grade": "A",
+    "publication_type": "conference",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "ACM MM",
+    "name": "ACM International Conference on Multimedia",
+    "ccf_grade": "A",
+    "publication_type": "conference",
+    "ccf_domain": "计算机图形学与多媒体",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "CIKM",
+    "name": "ACM International Conference on Information and Knowledge Management",
+    "ccf_grade": "B",
+    "publication_type": "conference",
+    "ccf_domain": "数据库/数据挖掘/内容检索",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "COLING",
+    "name": "International Conference on Computational Linguistics",
+    "ccf_grade": "B",
+    "publication_type": "conference",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "CVIU",
+    "name": "Computer Vision and Image Understanding",
+    "ccf_grade": "B",
+    "publication_type": "journal",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "CVPR",
+    "name": "IEEE/CVF Computer Vision and Pattern Recognition Conference",
+    "ccf_grade": "A",
+    "publication_type": "conference",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "DASFAA",
+    "name": "International Conference on Database Systems for Advanced Applications",
+    "ccf_grade": "B",
+    "publication_type": "conference",
+    "ccf_domain": "数据库/数据挖掘/内容检索",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "ECCV",
+    "name": "European Conference on Computer Vision",
+    "ccf_grade": "B",
+    "publication_type": "conference",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "EMNLP",
+    "name": "Conference on Empirical Methods in Natural Language Processing",
+    "ccf_grade": "B",
+    "publication_type": "conference",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "ICASSP",
+    "name": "IEEE International Conference on Acoustics, Speech and Signal Processing",
+    "ccf_grade": "B",
+    "publication_type": "conference",
+    "ccf_domain": "计算机图形学与多媒体",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "ICCV",
+    "name": "International Conference on Computer Vision",
+    "ccf_grade": "A",
+    "publication_type": "conference",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "ICLR",
+    "name": "International Conference on Learning Representations",
+    "ccf_grade": "A",
+    "publication_type": "conference",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "ICME",
+    "name": "IEEE International Conference on Multimedia & Expo",
+    "ccf_grade": "B",
+    "publication_type": "conference",
+    "ccf_domain": "计算机图形学与多媒体",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "ICML",
+    "name": "International Conference on Machine Learning",
+    "ccf_grade": "A",
+    "publication_type": "conference",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "ICMR",
+    "name": "ACM SIGMM International Conference on Multimedia Retrieval",
+    "ccf_grade": "B",
+    "publication_type": "conference",
+    "ccf_domain": "计算机图形学与多媒体",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "IJCAI",
+    "name": "International Joint Conference on Artificial Intelligence",
+    "ccf_grade": "B",
+    "publication_type": "conference",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "IJCV",
+    "name": "International Journal of Computer Vision",
+    "ccf_grade": "A",
+    "publication_type": "journal",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "IPM",
+    "name": "Information Processing and Management",
+    "ccf_grade": "B",
+    "publication_type": "journal",
+    "ccf_domain": "数据库/数据挖掘/内容检索",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "Information Sciences",
+    "name": "Information Sciences",
+    "ccf_grade": "B",
+    "publication_type": "journal",
+    "ccf_domain": "数据库/数据挖掘/内容检索",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "MICCAI",
+    "name": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "ccf_grade": "B",
+    "publication_type": "conference",
+    "ccf_domain": "交叉/综合/新兴",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "NAACL",
+    "name": "North American Chapter of the Association for Computational Linguistics",
+    "ccf_grade": "B",
+    "publication_type": "conference",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "NeurIPS",
+    "name": "Conference on Neural Information Processing Systems",
+    "ccf_grade": "A",
+    "publication_type": "conference",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "Neural Networks",
+    "name": "Neural Networks",
+    "ccf_grade": "B",
+    "publication_type": "journal",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "PR",
+    "name": "Pattern Recognition",
+    "ccf_grade": "B",
+    "publication_type": "journal",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "SIGIR",
+    "name": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "ccf_grade": "A",
+    "publication_type": "conference",
+    "ccf_domain": "数据库/数据挖掘/内容检索",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "TACL",
+    "name": "Transactions of the Association for Computational Linguistics",
+    "ccf_grade": "B",
+    "publication_type": "journal",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "TCSVT",
+    "name": "IEEE Transactions on Circuits and Systems for Video Technology",
+    "ccf_grade": "B",
+    "publication_type": "journal",
+    "ccf_domain": "计算机图形学与多媒体",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "TIP",
+    "name": "IEEE Transactions on Image Processing",
+    "ccf_grade": "A",
+    "publication_type": "journal",
+    "ccf_domain": "计算机图形学与多媒体",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "TITS",
+    "name": "IEEE Transactions on Intelligent Transportation Systems",
+    "ccf_grade": "B",
+    "publication_type": "journal",
+    "ccf_domain": "交叉/综合/新兴",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "TMM",
+    "name": "IEEE Transactions on Multimedia",
+    "ccf_grade": "A",
+    "publication_type": "journal",
+    "ccf_domain": "计算机图形学与多媒体",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "TNNLS",
+    "name": "IEEE Transactions on Neural Networks and learning systems",
+    "ccf_grade": "B",
+    "publication_type": "journal",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "TOIS",
+    "name": "ACM Transactions on Information Systems",
+    "ccf_grade": "A",
+    "publication_type": "journal",
+    "ccf_domain": "数据库/数据挖掘/内容检索",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "TOMM",
+    "name": "ACM Transactions on Multimedia Computing, Communications and Applications",
+    "ccf_grade": "B",
+    "publication_type": "journal",
+    "ccf_domain": "计算机网络",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  },
+  {
+    "venue": "TPAMI",
+    "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "ccf_grade": "A",
+    "publication_type": "journal",
+    "ccf_domain": "人工智能",
+    "edition": "第七版（2026）",
+    "source_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+    "source_pdf_url": "https://kyc.lsu.edu.cn/_upload/article/files/20/77/2cbaa3754eb9aff9ed74cafed8ff/23a8de02-594c-445f-b084-69b0193c05b3.pdf"
+  }
+]

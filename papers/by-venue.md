@@ -1,0 +1,603 @@
+# 按会议与期刊浏览
+
+[首页](../README.md) · [年份](by-year.md) · [会议与期刊](by-venue.md) · [方向](by-topic.md) · [补充](supplementary.md)
+
+分级按 CCF 第七版（2026）；条目统计包含独立会议版／期刊版以及标注的相关数据、综述和时序证据任务。标签是导航信息；出版类型核验程度与来源见 [覆盖说明](../docs/coverage.md)。
+
+## 会议
+
+### AAAI · CCF A（43）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | AAAI · A | [Adaptive Evidential Learning for Temporal-Semantic Robustness in Moment Retrieval](https://doi.org/10.1609/aaai.v40i7.37414) | 去偏与泛化 | [Paper](https://doi.org/10.1609/aaai.v40i7.37414) |
+| 2026 | AAAI · A | [GranAlign: Granularity-Aware Alignment Framework for Zero-shot Video Moment Retrieval](https://doi.org/10.1609/aaai.v40i7.37444) | 零样本与训练自由 | [Paper](https://doi.org/10.1609/aaai.v40i7.37444) |
+| 2026 | AAAI · A | [NeuS-QA: Grounding Long-Form Video Understanding in Temporal Logic and Neuro-Symbolic Reasoning](https://doi.org/10.1609/aaai.v40i11.37834)（时序证据 QA） | 长视频与效率、强化学习与推理、时序证据问答 | [Paper](https://doi.org/10.1609/aaai.v40i11.37834) |
+| 2026 | AAAI · A | [Object-Centric Framework for Video Moment Retrieval](https://doi.org/10.1609/aaai.v40i8.37609) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v40i8.37609) |
+| 2025 | AAAI · A | [Boundary-Aware Temporal Dynamic Pseudo-Supervision Pairs Generation for Zero-Shot Natural Language Video Localization](https://doi.org/10.1609/aaai.v39i3.32276) | 零样本与训练自由 | [Paper](https://doi.org/10.1609/aaai.v39i3.32276) |
+| 2025 | AAAI · A | [CDTR: Semantic Alignment for Video Moment Retrieval Using Concept Decomposition Transformer](https://doi.org/10.1609/aaai.v39i6.32717) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v39i6.32717) |
+| 2025 | AAAI · A | [Diversifying Query: Region-Guided Transformer for Temporal Sentence Grounding](https://doi.org/10.1609/aaai.v39i7.32766) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v39i7.32766) · [Code](https://github.com/TensorsSun/RGTR) |
+| 2025 | AAAI · A | [Generative Video Diffusion for Unseen Novel Semantic Video Moment Retrieval](https://doi.org/10.1609/aaai.v39i6.32624) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v39i6.32624) |
+| 2025 | AAAI · A | [Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos](https://doi.org/10.1609/aaai.v39i2.32214)（时序证据 QA） | 长视频与效率、时序证据问答 | [Paper](https://doi.org/10.1609/aaai.v39i2.32214) |
+| 2025 | AAAI · A | [Multi-Pair Temporal Sentence Grounding via Multi-Thread Knowledge Transfer Network](https://doi.org/10.1609/aaai.v39i3.32298) | 多句与多区间 | [Paper](https://doi.org/10.1609/aaai.v39i3.32298) |
+| 2025 | AAAI · A | [Multi-Scale Contrastive Learning for Video Temporal Grounding](https://doi.org/10.1609/aaai.v39i6.32666) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v39i6.32666) |
+| 2025 | AAAI · A | [Reverse Distribution Based Video Moment Retrieval for Effective Bias Elimination](https://doi.org/10.1609/aaai.v39i11.33302) | 去偏与泛化 | [Paper](https://doi.org/10.1609/aaai.v39i11.33302) |
+| 2025 | AAAI · A | [VTG-LLM: Integrating Timestamp Knowledge into Video LLMs for Enhanced Video Temporal Grounding](https://doi.org/10.1609/aaai.v39i3.32341) | 大模型 | [Paper](https://doi.org/10.1609/aaai.v39i3.32341) · [arXiv](https://arxiv.org/abs/2405.13382) · [Code](https://github.com/gyxxyg/VTG-LLM) |
+| 2025 | AAAI · A | [Watch Video, Catch Keyword: Context-aware Keyword Attention for Moment Retrieval and Highlight Detection](https://doi.org/10.1609/aaai.v39i7.32804) | 联合检索与高亮 | [Paper](https://doi.org/10.1609/aaai.v39i7.32804) |
+| 2025 | AAAI · A | [Zero-shot Video Moment Retrieval via Off-the-shelf Multimodal Large Language Models](https://doi.org/10.1609/aaai.v39i9.32971) | 大模型、零样本与训练自由 | [Paper](https://doi.org/10.1609/aaai.v39i9.32971) |
+| 2024 | AAAI · A | [Bias-Conflict Sample Synthesis and Adversarial Removal Debias Strategy for Temporal Sentence Grounding in Video](https://doi.org/10.1609/aaai.v38i5.28252) | 去偏与泛化 | [Paper](https://doi.org/10.1609/aaai.v38i5.28252) · [Code](https://github.com/qzhb/BSSARD) |
+| 2024 | AAAI · A | [Commonsense for Zero-Shot Natural Language Video Localization](https://doi.org/10.1609/aaai.v38i3.27989) | 零样本与训练自由 | [Paper](https://doi.org/10.1609/aaai.v38i3.27989) |
+| 2024 | AAAI · A | [Exploiting Auxiliary Caption for Video Grounding](https://doi.org/10.1609/aaai.v38i17.29812) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v38i17.29812) |
+| 2024 | AAAI · A | [Fewer Steps, Better Performance: Efficient Cross-Modal Clip Trimming for Video Moment Retrieval Using Language](https://doi.org/10.1609/aaai.v38i2.27941) | 长视频与效率 | [Paper](https://doi.org/10.1609/aaai.v38i2.27941) |
+| 2024 | AAAI · A | [Gaussian Mixture Proposals with Pull-Push Learning Scheme to Capture Diverse Events for Weakly Supervised Temporal Video Grounding](https://doi.org/10.1609/aaai.v38i3.28059) | 弱监督 | [Paper](https://doi.org/10.1609/aaai.v38i3.28059) · [Code](https://github.com/sunoh-kim/pps) |
+| 2024 | AAAI · A | [Local-Global Multi-Modal Distillation for Weakly-Supervised Temporal Video Grounding](https://doi.org/10.1609/aaai.v38i2.27831) | 弱监督 | [Paper](https://doi.org/10.1609/aaai.v38i2.27831) |
+| 2024 | AAAI · A | [Omnipotent Distillation with LLMs for Weakly-Supervised Natural Language Video Localization: When Divergence Meets Consistency](https://doi.org/10.1609/aaai.v38i2.27832) | 弱监督、大模型 | [Paper](https://doi.org/10.1609/aaai.v38i2.27832) |
+| 2024 | AAAI · A | [Towards Balanced Alignment: Modal-Enhanced Semantic Modeling for Video Moment Retrieval](https://doi.org/10.1609/aaai.v38i4.28177) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v38i4.28177) · [Code](https://github.com/lntzm/MESM) |
+| 2024 | AAAI · A | [TR-DETR: Task-Reciprocal Transformer for Joint Moment Retrieval and Highlight Detection](https://doi.org/10.1609/aaai.v38i5.28304) | 联合检索与高亮 | [Paper](https://doi.org/10.1609/aaai.v38i5.28304) · [Code](https://github.com/mingyao1120/TR-DETR) |
+| 2024 | AAAI · A | [Transferable Video Moment Localization by Moment-Guided Query Prompting](https://doi.org/10.1609/aaai.v38i3.28028) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v38i3.28028) |
+| 2024 | AAAI · A | [Unsupervised Domain Adaptative Temporal Sentence Localization with Mutual Information Maximization](https://doi.org/10.1609/aaai.v38i4.28145) | 弱监督、去偏与泛化 | [Paper](https://doi.org/10.1609/aaai.v38i4.28145) |
+| 2023 | AAAI · A | [Curriculum Multi-Negative Augmentation for Debiased Video Grounding](https://doi.org/10.1609/aaai.v37i1.25204) | 去偏与泛化 | [Paper](https://doi.org/10.1609/aaai.v37i1.25204) |
+| 2023 | AAAI · A | [Hypotheses Tree Building for One-Shot Temporal Sentence Localization](https://doi.org/10.1609/aaai.v37i2.25251) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v37i2.25251) |
+| 2023 | AAAI · A | [Phrase-Level Temporal Relationship Mining for Temporal Sentence Localization](https://doi.org/10.1609/aaai.v37i3.25478) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v37i3.25478) · [Code](https://github.com/minghangz/TRM) |
+| 2022 | AAAI · A | [Explore Inter-contrast between Videos via Composition for Weakly Supervised Temporal Sentence Grounding](https://doi.org/10.1609/aaai.v36i1.19902) | 弱监督 | [Paper](https://doi.org/10.1609/aaai.v36i1.19902) |
+| 2022 | AAAI · A | [Exploring Motion and Appearance Information for Temporal Sentence Grounding](https://doi.org/10.1609/aaai.v36i2.20059) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v36i2.20059) |
+| 2022 | AAAI · A | [Memory-Guided Semantic Learning Network for Temporal Sentence Grounding](https://doi.org/10.1609/aaai.v36i2.20058) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v36i2.20058) |
+| 2022 | AAAI · A | [Unsupervised Temporal Video Grounding with Deep Semantic Clustering](https://doi.org/10.1609/aaai.v36i2.20060) | 弱监督 | [Paper](https://doi.org/10.1609/aaai.v36i2.20060) |
+| 2022 | AAAI · A | [Weakly Supervised Video Moment Localization with Contrastive Negative Sample Mining](https://doi.org/10.1609/aaai.v36i3.20263) | 弱监督 | [Paper](https://doi.org/10.1609/aaai.v36i3.20263) · [Code](https://github.com/minghangz/cnm) |
+| 2021 | AAAI · A | [Boundary Proposal Network for Two-stage Natural Language Video Localization](https://doi.org/10.1609/aaai.v35i4.16406) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v35i4.16406) |
+| 2021 | AAAI · A | [Proposal-Free Video Grounding with Contextual Pyramid Network](https://doi.org/10.1609/aaai.v35i3.16285) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v35i3.16285) |
+| 2020 | AAAI · A | [Learning 2D Temporal Adjacent Networks for Moment Localization with Natural Language](https://doi.org/10.1609/aaai.v34i07.6984) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v34i07.6984) · [arXiv](https://arxiv.org/abs/1912.03590) · [Code](https://github.com/microsoft/2D-TAN) |
+| 2020 | AAAI · A | [Rethinking the Bottom-Up Framework for Query-Based Video Localization](https://doi.org/10.1609/aaai.v34i07.6627) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v34i07.6627) |
+| 2020 | AAAI · A | [Temporally Grounding Language Queries in Videos by Contextual Boundary-Aware Prediction](https://doi.org/10.1609/aaai.v34i07.6897) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v34i07.6897) · [Code](https://github.com/JaywongWang/CBP) |
+| 2020 | AAAI · A | [Tree-Structured Policy Based Progressive Reinforcement Learning for Temporally Language Grounding in Video](https://doi.org/10.1609/aaai.v34i07.6924) | 强化学习与推理 | [Paper](https://doi.org/10.1609/aaai.v34i07.6924) · [Code](https://github.com/WuJie1010/TSP-PRL) |
+| 2020 | AAAI · A | [Weakly-Supervised Video Moment Retrieval via Semantic Completion Network](https://doi.org/10.1609/aaai.v34i07.6820) | 弱监督 | [Paper](https://doi.org/10.1609/aaai.v34i07.6820) · [Code](https://github.com/ikuinen/semantic_completion_network) |
+| 2019 | AAAI · A | [Read, Watch, and Move: Reinforcement Learning for Temporally Grounding Natural Language Descriptions in Videos](https://doi.org/10.1609/aaai.v33i01.33018393) | 强化学习与推理 | [Paper](https://doi.org/10.1609/aaai.v33i01.33018393) · [Code](https://github.com/WuJie1010/Temporally-language-grounding) |
+| 2019 | AAAI · A | [To Find Where You Talk: Temporal Sentence Localization in Video with Attention Based Location Regression](https://doi.org/10.1609/aaai.v33i01.33019159) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1609/aaai.v33i01.33019159) · [Code](https://github.com/yytzsy/ABLR_code) |
+
+### ACL · CCF A（8）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | ACL · A | [MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding](https://doi.org/10.18653/v1/2026.acl-long.1644) | 大模型、强化学习与推理、多句与多区间 | [Paper](https://doi.org/10.18653/v1/2026.acl-long.1644) · [arXiv](https://arxiv.org/abs/2505.20715) · [Code](https://github.com/THUNLP-MT/MUSEG) |
+| 2025 | ACL · A | [RAVEN: Robust Advertisement Video Violation Temporal Grounding via Reinforcement Reasoning](https://doi.org/10.18653/v1/2025.acl-industry.3) | 去偏与泛化、强化学习与推理 | [Paper](https://doi.org/10.18653/v1/2025.acl-industry.3) |
+| 2024 | ACL · A | [Exploiting Intrinsic Multilateral Logical Rules for Weakly Supervised Natural Language Video Localization](https://doi.org/10.18653/v1/2024.acl-long.247) | 弱监督 | [Paper](https://doi.org/10.18653/v1/2024.acl-long.247) |
+| 2023 | ACL · A | [CONE: An Efficient COarse-to-fiNE Alignment Framework for Long Video Temporal Grounding](https://doi.org/10.18653/v1/2023.acl-long.445) | 长视频与效率 | [Paper](https://doi.org/10.18653/v1/2023.acl-long.445) |
+| 2023 | ACL · A | [Generating Structured Pseudo Labels for Noise-resistant Zero-shot Video Sentence Localization](https://doi.org/10.18653/v1/2023.acl-long.794) | 去偏与泛化、零样本与训练自由 | [Paper](https://doi.org/10.18653/v1/2023.acl-long.794) · [Code](https://github.com/minghangz/SPL) |
+| 2023 | ACL · A | [MS-DETR: Natural Language Video Localization with Sampling Moment-Moment Interaction](https://doi.org/10.18653/v1/2023.acl-long.77) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.18653/v1/2023.acl-long.77) |
+| 2021 | ACL · A | [mTVR: Multilingual Moment Retrieval in Videos](https://doi.org/10.18653/v1/2021.acl-short.92) | 视频库检索 | [Paper](https://doi.org/10.18653/v1/2021.acl-short.92) |
+| 2020 | ACL · A | [Span-based Localizing Network for Natural Language Video Localization](https://doi.org/10.18653/v1/2020.acl-main.585) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.18653/v1/2020.acl-main.585) · [arXiv](https://arxiv.org/abs/2004.13931) · [Code](https://github.com/IsaacChanghau/VSLNet) |
+
+### ACM MM · CCF A（36）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2025 | ACM MM · A | [Audio Does Matter: Importance-Aware Multi-Granularity Fusion for Video Moment Retrieval](https://doi.org/10.1145/3746027.3754982) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3746027.3754982) |
+| 2025 | ACM MM · A | [Boosting Temporal Sentence Grounding via Causal Inference](https://doi.org/10.1145/3746027.3755624) | 去偏与泛化 | [Paper](https://doi.org/10.1145/3746027.3755624) · [Code](https://github.com/Tangkfan/CICR) |
+| 2025 | ACM MM · A | [Lightweight Relational Proposal Network with Dual-Branch Distillation for Video Moment Retrieval](https://doi.org/10.1145/3746027.3755391) | 长视频与效率 | [Paper](https://doi.org/10.1145/3746027.3755391) |
+| 2025 | ACM MM · A | [MS-DETR: Towards Effective Video Moment Retrieval and Highlight Detection by Joint Motion-Semantic Learning](https://doi.org/10.1145/3746027.3755484) | 联合检索与高亮 | [Paper](https://doi.org/10.1145/3746027.3755484) |
+| 2025 | ACM MM · A | [Turing Patterns for Multimedia: Reaction-Diffusion Multi-Modal Fusion for Language-Guided Video Moment Retrieval](https://doi.org/10.1145/3746027.3758179) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3746027.3758179) |
+| 2024 | ACM MM · A | [Counterfactually Augmented Event Matching for De-biased Temporal Sentence Grounding](https://doi.org/10.1145/3664647.3680948) | 去偏与泛化 | [Paper](https://doi.org/10.1145/3664647.3680948) |
+| 2024 | ACM MM · A | [Explicit Granularity and Implicit Scale Correspondence Learning for Point-Supervised Video Moment Localization](https://doi.org/10.1145/3664647.3680774) | 点监督与低标注 | [Paper](https://doi.org/10.1145/3664647.3680774) |
+| 2024 | ACM MM · A | [Learnable Negative Proposals Using Dual-Signed Cross-Entropy Loss for Weakly Supervised Video Moment Localization](https://doi.org/10.1145/3664647.3681304) | 弱监督 | [Paper](https://doi.org/10.1145/3664647.3681304) |
+| 2024 | ACM MM · A | [Let Me Finish My Sentence: Video Temporal Grounding with Holistic Text Understanding](https://doi.org/10.1145/3664647.3681514) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3664647.3681514) |
+| 2024 | ACM MM · A | [Maskable Retentive Network for Video Moment Retrieval](https://doi.org/10.1145/3664647.3680746) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3664647.3680746) · [Code](https://github.com/xian-sh/MRNet) |
+| 2024 | ACM MM · A | [Not All Inputs Are Valid: Towards Open-Set Video Moment Retrieval using Language](https://doi.org/10.1145/3664647.3680947) | 开放集与拒绝 | [Paper](https://doi.org/10.1145/3664647.3680947) |
+| 2024 | ACM MM · A | [Prior Knowledge Integration via LLM Encoding and Pseudo Event Regulation for Video Moment Retrieval](https://doi.org/10.1145/3664647.3681115) | 大模型 | [Paper](https://doi.org/10.1145/3664647.3681115) · [Code](https://github.com/fletcherjiang/LLMEPET) |
+| 2023 | ACM MM · A | [Counterfactual Cross-modality Reasoning for Weakly Supervised Video Moment Localization](https://doi.org/10.1145/3581783.3612495) | 弱监督、去偏与泛化、强化学习与推理 | [Paper](https://doi.org/10.1145/3581783.3612495) |
+| 2023 | ACM MM · A | [Curriculum-Listener: Consistency- and Complementarity-Aware Audio-Enhanced Temporal Sentence Grounding](https://doi.org/10.1145/3581783.3612504) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3581783.3612504) |
+| 2023 | ACM MM · A | [Faster Video Moment Retrieval with Point-Level Supervision](https://doi.org/10.1145/3581783.3612394) | 点监督与低标注 | [Paper](https://doi.org/10.1145/3581783.3612394) |
+| 2023 | ACM MM · A | [Filling the Information Gap between Video and Query for Language-Driven Moment Retrieval](https://doi.org/10.1145/3581783.3612038) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3581783.3612038) |
+| 2023 | ACM MM · A | [Mixup-Augmented Temporally Debiased Video Grounding with Content-Location Disentanglement](https://doi.org/10.1145/3581783.3612401) | 去偏与泛化 | [Paper](https://doi.org/10.1145/3581783.3612401) |
+| 2023 | ACM MM · A | [Partial Annotation-based Video Moment Retrieval via Iterative Learning](https://doi.org/10.1145/3581783.3612088) | 点监督与低标注 | [Paper](https://doi.org/10.1145/3581783.3612088) |
+| 2023 | ACM MM · A | [Reducing Intrinsic and Extrinsic Data Biases for Moment Localization with Natural Language](https://doi.org/10.1145/3581783.3612357) | 去偏与泛化 | [Paper](https://doi.org/10.1145/3581783.3612357) |
+| 2023 | ACM MM · A | [Semantics-Enriched Cross-Modal Alignment for Complex-Query Video Moment Retrieval](https://doi.org/10.1145/3581783.3613772) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3581783.3613772) |
+| 2023 | ACM MM · A | [Temporal Sentence Grounding in Streaming Videos](https://doi.org/10.1145/3581783.3612120) | 在线与流式 | [Paper](https://doi.org/10.1145/3581783.3612120) |
+| 2022 | ACM MM · A | [Interactive Video Corpus Moment Retrieval using Reinforcement Learning](https://doi.org/10.1145/3503161.3548277) | 视频库检索、强化学习与推理 | [Paper](https://doi.org/10.1145/3503161.3548277) |
+| 2022 | ACM MM · A | [Prompt-based Zero-shot Video Moment Retrieval](https://doi.org/10.1145/3503161.3548004) | 零样本与训练自由 | [Paper](https://doi.org/10.1145/3503161.3548004) |
+| 2022 | ACM MM · A | [Reducing the Vision and Language Bias for Temporal Sentence Grounding](https://doi.org/10.1145/3503161.3547969) | 去偏与泛化 | [Paper](https://doi.org/10.1145/3503161.3547969) |
+| 2022 | ACM MM · A | [Skimming, Locating, then Perusing: A Human-Like Framework for Natural Language Video Localization](https://doi.org/10.1145/3503161.3547782) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3503161.3547782) |
+| 2022 | ACM MM · A | [Video Moment Retrieval with Hierarchical Contrastive Learning](https://doi.org/10.1145/3503161.3547963) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3503161.3547963) |
+| 2021 | ACM MM · A | [CONQUER: Contextual Query-aware Ranking for Video Corpus Moment Retrieval](https://doi.org/10.1145/3474085.3475281) | 视频库检索 | [Paper](https://doi.org/10.1145/3474085.3475281) |
+| 2021 | ACM MM · A | [Visual Co-Occurrence Alignment Learning for Weakly-Supervised Video Moment Retrieval](https://doi.org/10.1145/3474085.3475278) | 弱监督 | [Paper](https://doi.org/10.1145/3474085.3475278) |
+| 2020 | ACM MM · A | [Adversarial Video Moment Retrieval by Jointly Modeling Ranking and Localization](https://doi.org/10.1145/3394171.3413841) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3394171.3413841) |
+| 2020 | ACM MM · A | [Dual Path Interaction Network for Video Moment Localization](https://doi.org/10.1145/3394171.3413975) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3394171.3413975) |
+| 2020 | ACM MM · A | [Fine-grained Iterative Attention Network for Temporal Language Localization in Videos](https://doi.org/10.1145/3394171.3414053) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3394171.3414053) |
+| 2020 | ACM MM · A | [Jointly Cross- and Self-Modal Graph Attention Network for Query-Based Moment Localization](https://doi.org/10.1145/3394171.3414026) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3394171.3414026) · [Code](https://github.com/liudaizong/CSMGAN) |
+| 2020 | ACM MM · A | [Regularized Two-Branch Proposal Networks for Weakly-Supervised Moment Retrieval in Videos](https://doi.org/10.1145/3394171.3413967) | 弱监督 | [Paper](https://doi.org/10.1145/3394171.3413967) |
+| 2020 | ACM MM · A | [Reinforcement Learning for Weakly Supervised Temporal Grounding of Natural Language in Untrimmed Videos](https://doi.org/10.1145/3394171.3413862) | 弱监督、强化学习与推理 | [Paper](https://doi.org/10.1145/3394171.3413862) |
+| 2019 | ACM MM · A | [Exploiting Temporal Relationships in Video Moment Localization with Natural Language](https://doi.org/10.1145/3343031.3350879) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3343031.3350879) · [Code](https://github.com/Sy-Zhang/TCMN-Release) |
+| 2018 | ACM MM · A | [Cross-modal Moment Localization in Videos](https://doi.org/10.1145/3240508.3240549) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3240508.3240549) |
+
+### CIKM · CCF B（1）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2024 | CIKM · B | [A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors](https://doi.org/10.1145/3627673.3679838) | 数据与评测 | [Paper](https://doi.org/10.1145/3627673.3679838) |
+
+### COLING · CCF B（3）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2025 | COLING · B | [Mitigating the Discrepancy Between Video and Text Temporal Sequences: A Time-Perception Enhanced Video Grounding method for LLM](https://aclanthology.org/2025.coling-main.655/) | 跨模态定位与边界建模 | [Paper](https://aclanthology.org/2025.coling-main.655/) · [Code](https://github.com/lixuefenfen/TPE-VLLM) |
+| 2022 | COLING · B | [Learning to Focus on the Foreground for Temporal Sentence Grounding](https://aclanthology.org/2022.coling-1.490/) | 跨模态定位与边界建模 | [Paper](https://aclanthology.org/2022.coling-1.490/) |
+| 2020 | COLING · B | [Reasoning Step-by-Step: Temporal Sentence Localization in Videos via Deep Rectification-Modulation Network](https://doi.org/10.18653/v1/2020.coling-main.167) | 强化学习与推理 | [Paper](https://doi.org/10.18653/v1/2020.coling-main.167) |
+
+### CVPR · CCF A（52）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | CVPR · A | [Beyond Caption-Based Queries in Video Moment Retrieval](https://openaccess.thecvf.com/content/CVPR2026/html/Pujol-Perich_Beyond_Caption-Based_Queries_in_Video_Moment_Retrieval_CVPR_2026_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Pujol-Perich_Beyond_Caption-Based_Queries_in_Video_Moment_Retrieval_CVPR_2026_paper.html) |
+| 2026 | CVPR · A | [CVA: Context-aware Video-text Alignment for Video Temporal Grounding](https://openaccess.thecvf.com/content/CVPR2026/html/Moon_CVA_Context-aware_Video-text_Alignment_for_Video_Temporal_Grounding_CVPR_2026_paper.html) | 去偏与泛化 | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Moon_CVA_Context-aware_Video-text_Alignment_for_Video_Temporal_Grounding_CVPR_2026_paper.html) · [arXiv](https://arxiv.org/abs/2603.24934) |
+| 2026 | CVPR · A | [GroundVTS: Visual Token Sampling in Multimodal Large Language Models for Video Temporal Grounding](https://openaccess.thecvf.com/content/CVPR2026/html/Fan_GroundVTS_Visual_Token_Sampling_in_Multimodal_Large_Language_Models_for_CVPR_2026_paper.html) | 大模型 | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Fan_GroundVTS_Visual_Token_Sampling_in_Multimodal_Large_Language_Models_for_CVPR_2026_paper.html) · [arXiv](https://arxiv.org/abs/2604.02093) · [Code](https://github.com/Florence365/GroundVTS) |
+| 2026 | CVPR · A | [HERO: Hierarchical Embedding-Refinement for Open-Vocabulary Temporal Sentence Grounding in Videos](https://openaccess.thecvf.com/content/CVPR2026/html/Han_HERO_Hierarchical_Embedding-Refinement_for_Open-Vocabulary_Temporal_Sentence_Grounding_in_Videos_CVPR_2026_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Han_HERO_Hierarchical_Embedding-Refinement_for_Open-Vocabulary_Temporal_Sentence_Grounding_in_Videos_CVPR_2026_paper.html) · [arXiv](https://arxiv.org/abs/2603.06732) |
+| 2026 | CVPR · A | [HieraMamba: Video Temporal Grounding via Hierarchical Anchor-Mamba Pooling](https://openaccess.thecvf.com/content/CVPR2026/html/An_HieraMamba_Video_Temporal_Grounding_via_Hierarchical_Anchor-Mamba_Pooling_CVPR_2026_paper.html) | 长视频与效率 | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/An_HieraMamba_Video_Temporal_Grounding_via_Hierarchical_Anchor-Mamba_Pooling_CVPR_2026_paper.html) · [arXiv](https://arxiv.org/abs/2510.23043) |
+| 2026 | CVPR · A | [Learning to Refuse: Refusal-Aware Reinforcement Fine-Tuning for Hard-Irrelevant Queries in Video Temporal Grounding](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_Learning_to_Refuse_Refusal-Aware_Reinforcement_Fine-Tuning_for_Hard-Irrelevant_Queries_in_CVPR_2026_paper.html) | 强化学习与推理、开放集与拒绝 | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_Learning_to_Refuse_Refusal-Aware_Reinforcement_Fine-Tuning_for_Hard-Irrelevant_Queries_in_CVPR_2026_paper.html) · [arXiv](https://arxiv.org/abs/2511.23151) |
+| 2026 | CVPR · A | [OmniVTG: A Large-Scale Dataset and Training Paradigm for Open-World Video Temporal Grounding](https://openaccess.thecvf.com/content/CVPR2026/html/Zheng_OmniVTG_A_Large-Scale_Dataset_and_Training_Paradigm_for_Open-World_Video_CVPR_2026_paper.html) | 大模型、开放集与拒绝、数据与评测 | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zheng_OmniVTG_A_Large-Scale_Dataset_and_Training_Paradigm_for_Open-World_Video_CVPR_2026_paper.html) · [arXiv](https://arxiv.org/abs/2604.25276) · [Code](https://github.com/oceanflowlab/OmniVTG) |
+| 2026 | CVPR · A | [T2SGrid: Temporal-to-Spatial Gridification for Video Temporal Grounding](https://openaccess.thecvf.com/content/CVPR2026/html/Guo_T2SGrid_Temporal-to-Spatial_Gridification_for_Video_Temporal_Grounding_CVPR_2026_paper.html) | 大模型 | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Guo_T2SGrid_Temporal-to-Spatial_Gridification_for_Video_Temporal_Grounding_CVPR_2026_paper.html) · [arXiv](https://arxiv.org/abs/2603.06973) |
+| 2026 | CVPR · A | [TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_TimeLens_Rethinking_Video_Temporal_Grounding_with_Multimodal_LLMs_CVPR_2026_paper.html) | 大模型、强化学习与推理、数据与评测 | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_TimeLens_Rethinking_Video_Temporal_Grounding_with_Multimodal_LLMs_CVPR_2026_paper.html) · [arXiv](https://arxiv.org/abs/2512.14698) · [Code](https://github.com/TencentARC/TimeLens) |
+| 2026 | CVPR · A | [VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_VideoITG_Multimodal_Video_Understanding_with_Instructed_Temporal_Grounding_CVPR_2026_paper.html) | 大模型、数据与评测 | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_VideoITG_Multimodal_Video_Understanding_with_Instructed_Temporal_Grounding_CVPR_2026_paper.html) · [arXiv](https://arxiv.org/abs/2507.13353) · [Code](https://github.com/NVlabs/VideoITG) |
+| 2025 | CVPR · A | [Cross-modal Causal Relation Alignment for Video Question Grounding](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Cross-modal_Causal_Relation_Alignment_for_Video_Question_Grounding_CVPR_2025_paper.html)（时序证据 QA） | 去偏与泛化、时序证据问答 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Cross-modal_Causal_Relation_Alignment_for_Video_Question_Grounding_CVPR_2025_paper.html) · [arXiv](https://arxiv.org/abs/2503.07635) · [Code](https://github.com/WissingChen/CRA-GQA) |
+| 2025 | CVPR · A | [DeCafNet: Delegate and Conquer for Efficient Temporal Grounding in Long Videos](https://openaccess.thecvf.com/content/CVPR2025/html/Lu_DeCafNet_Delegate_and_Conquer_for_Efficient_Temporal_Grounding_in_Long_CVPR_2025_paper.html) | 长视频与效率 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Lu_DeCafNet_Delegate_and_Conquer_for_Efficient_Temporal_Grounding_in_Long_CVPR_2025_paper.html) · [arXiv](https://arxiv.org/abs/2505.16376) |
+| 2025 | CVPR · A | [Number it: Temporal Grounding Videos like Flipping Manga](https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Number_it_Temporal_Grounding_Videos_like_Flipping_Manga_CVPR_2025_paper.html) | 大模型、零样本与训练自由 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Number_it_Temporal_Grounding_Videos_like_Flipping_Manga_CVPR_2025_paper.html) · [arXiv](https://arxiv.org/abs/2411.10332) · [Code](https://github.com/yongliang-wu/NumPro) |
+| 2025 | CVPR · A | [ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos](https://openaccess.thecvf.com/content/CVPR2025/html/Hannan_ReVisionLLM_Recursive_Vision-Language_Model_for_Temporal_Grounding_in_Hour-Long_Videos_CVPR_2025_paper.html) | 大模型、长视频与效率 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Hannan_ReVisionLLM_Recursive_Vision-Language_Model_for_Temporal_Grounding_in_Hour-Long_Videos_CVPR_2025_paper.html) · [arXiv](https://arxiv.org/abs/2411.14901) · [Code](https://github.com/Tanveer81/ReVisionLLM) |
+| 2025 | CVPR · A | [Seq2Time: Sequential Knowledge Transfer for Video LLM Temporal Grounding](https://openaccess.thecvf.com/content/CVPR2025/html/Deng_Seq2Time_Sequential_Knowledge_Transfer_for_Video_LLM_Temporal_Grounding_CVPR_2025_paper.html) | 大模型 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Deng_Seq2Time_Sequential_Knowledge_Transfer_for_Video_LLM_Temporal_Grounding_CVPR_2025_paper.html) · [arXiv](https://arxiv.org/abs/2411.16932) |
+| 2024 | CVPR · A | [Bridging the Gap: A Unified Video Comprehension Framework for Moment Retrieval and Highlight Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Xiao_Bridging_the_Gap_A_Unified_Video_Comprehension_Framework_for_Moment_CVPR_2024_paper.html) | 联合检索与高亮 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xiao_Bridging_the_Gap_A_Unified_Video_Comprehension_Framework_for_Moment_CVPR_2024_paper.html) · [arXiv](https://arxiv.org/abs/2311.16464) · [Code](https://github.com/EasonXiao-888/UVCOM) |
+| 2024 | CVPR · A | [Grounded Question-Answering in Long Egocentric Videos](https://openaccess.thecvf.com/content/CVPR2024/html/Di_Grounded_Question-Answering_in_Long_Egocentric_Videos_CVPR_2024_paper.html)（时序证据 QA） | 时序证据问答 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Di_Grounded_Question-Answering_in_Long_Egocentric_Videos_CVPR_2024_paper.html) · [arXiv](https://arxiv.org/abs/2312.06505) · [Code](https://github.com/Becomebright/GroundVQA) |
+| 2024 | CVPR · A | [Siamese Learning with Joint Alignment and Regression for Weakly-Supervised Video Paragraph Grounding](https://openaccess.thecvf.com/content/CVPR2024/html/Tan_Siamese_Learning_with_Joint_Alignment_and_Regression_for_Weakly-Supervised_Video_CVPR_2024_paper.html) | 弱监督、多句与多区间 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Tan_Siamese_Learning_with_Joint_Alignment_and_Regression_for_Weakly-Supervised_Video_CVPR_2024_paper.html) · [arXiv](https://arxiv.org/abs/2403.11463) |
+| 2024 | CVPR · A | [SnAG: Scalable and Accurate Video Grounding](https://openaccess.thecvf.com/content/CVPR2024/html/Mu_SnAG_Scalable_and_Accurate_Video_Grounding_CVPR_2024_paper.html) | 长视频与效率 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Mu_SnAG_Scalable_and_Accurate_Video_Grounding_CVPR_2024_paper.html) · [arXiv](https://arxiv.org/abs/2404.02257) |
+| 2024 | CVPR · A | [Task-Driven Exploration: Decoupling and Inter-Task Feedback for Joint Moment Retrieval and Highlight Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Task-Driven_Exploration_Decoupling_and_Inter-Task_Feedback_for_Joint_Moment_Retrieval_CVPR_2024_paper.html) | 联合检索与高亮 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Task-Driven_Exploration_Decoupling_and_Inter-Task_Feedback_for_Joint_Moment_Retrieval_CVPR_2024_paper.html) · [arXiv](https://arxiv.org/abs/2404.09263) · [Code](https://github.com/EdenGabriel/TaskWeave) |
+| 2024 | CVPR · A | [TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding](https://doi.org/10.1109/cvpr52733.2024.01357) | 大模型、长视频与效率 | [Paper](https://doi.org/10.1109/cvpr52733.2024.01357) · [arXiv](https://arxiv.org/abs/2312.02051) · [Code](https://github.com/RenShuhuai-Andy/TimeChat) |
+| 2024 | CVPR · A | [VTimeLLM: Empower LLM to Grasp Video Moments](https://doi.org/10.1109/cvpr52733.2024.01353) | 大模型 | [Paper](https://doi.org/10.1109/cvpr52733.2024.01353) · [arXiv](https://arxiv.org/abs/2311.18445) · [Code](https://github.com/huangb23/VTimeLLM) |
+| 2023 | CVPR · A | [Are Binary Annotations Sufficient? Video Moment Retrieval via Hierarchical Uncertainty-based Active Learning](https://openaccess.thecvf.com/content/CVPR2023/html/Ji_Are_Binary_Annotations_Sufficient_Video_Moment_Retrieval_via_Hierarchical_Uncertainty-Based_CVPR_2023_paper.html) | 点监督与低标注 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ji_Are_Binary_Annotations_Sufficient_Video_Moment_Retrieval_via_Hierarchical_Uncertainty-Based_CVPR_2023_paper.html) |
+| 2023 | CVPR · A | [DeCo: Decomposition and Reconstruction for Compositional Temporal Grounding via Coarse-To-Fine Contrastive Ranking](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_DeCo_Decomposition_and_Reconstruction_for_Compositional_Temporal_Grounding_via_Coarse-To-Fine_CVPR_2023_paper.html) | 去偏与泛化 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_DeCo_Decomposition_and_Reconstruction_for_Compositional_Temporal_Grounding_via_Coarse-To-Fine_CVPR_2023_paper.html) |
+| 2023 | CVPR · A | [Hierarchical Semantic Correspondence Networks for Video Paragraph Grounding](https://openaccess.thecvf.com/content/CVPR2023/html/Tan_Hierarchical_Semantic_Correspondence_Networks_for_Video_Paragraph_Grounding_CVPR_2023_paper.html) | 多句与多区间 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Tan_Hierarchical_Semantic_Correspondence_Networks_for_Video_Paragraph_Grounding_CVPR_2023_paper.html) |
+| 2023 | CVPR · A | [Hierarchical Video-Moment Retrieval and Step-Captioning](https://openaccess.thecvf.com/content/CVPR2023/html/Zala_Hierarchical_Video-Moment_Retrieval_and_Step-Captioning_CVPR_2023_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zala_Hierarchical_Video-Moment_Retrieval_and_Step-Captioning_CVPR_2023_paper.html) · [arXiv](https://arxiv.org/abs/2303.16406) |
+| 2023 | CVPR · A | [Iterative Proposal Refinement for Weakly-Supervised Video Grounding](https://openaccess.thecvf.com/content/CVPR2023/html/Cao_Iterative_Proposal_Refinement_for_Weakly-Supervised_Video_Grounding_CVPR_2023_paper.html) | 弱监督 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cao_Iterative_Proposal_Refinement_for_Weakly-Supervised_Video_Grounding_CVPR_2023_paper.html) |
+| 2023 | CVPR · A | [ProTéGé: Untrimmed Pretraining for Video Temporal Grounding by Video Temporal Grounding](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_ProTeGe_Untrimmed_Pretraining_for_Video_Temporal_Grounding_by_Video_Temporal_CVPR_2023_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_ProTeGe_Untrimmed_Pretraining_for_Video_Temporal_Grounding_by_Video_Temporal_CVPR_2023_paper.html) |
+| 2023 | CVPR · A | [Query - Dependent Video Representation for Moment Retrieval and Highlight Detection](https://openaccess.thecvf.com/content/CVPR2023/html/Moon_Query-Dependent_Video_Representation_for_Moment_Retrieval_and_Highlight_Detection_CVPR_2023_paper.html) | 联合检索与高亮 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Moon_Query-Dependent_Video_Representation_for_Moment_Retrieval_and_Highlight_Detection_CVPR_2023_paper.html) · [arXiv](https://arxiv.org/abs/2303.13874) · [Code](https://github.com/wjun0830/QD-DETR) |
+| 2023 | CVPR · A | [Text-Visual Prompting for Efficient 2D Temporal Video Grounding](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Text-Visual_Prompting_for_Efficient_2D_Temporal_Video_Grounding_CVPR_2023_paper.html) | 长视频与效率 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Text-Visual_Prompting_for_Efficient_2D_Temporal_Video_Grounding_CVPR_2023_paper.html) · [arXiv](https://arxiv.org/abs/2303.04995) |
+| 2023 | CVPR · A | [Towards Generalisable Video Moment Retrieval: Visual-Dynamic Injection to Image-Text Pre-Training](https://openaccess.thecvf.com/content/CVPR2023/html/Luo_Towards_Generalisable_Video_Moment_Retrieval_Visual-Dynamic_Injection_to_Image-Text_Pre-Training_CVPR_2023_paper.html) | 去偏与泛化 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Luo_Towards_Generalisable_Video_Moment_Retrieval_Visual-Dynamic_Injection_to_Image-Text_Pre-Training_CVPR_2023_paper.html) · [arXiv](https://arxiv.org/abs/2303.00040) |
+| 2023 | CVPR · A | [Weakly Supervised Temporal Sentence Grounding with Uncertainty-Guided Self-training](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_Weakly_Supervised_Temporal_Sentence_Grounding_With_Uncertainty-Guided_Self-Training_CVPR_2023_paper.html) | 弱监督 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_Weakly_Supervised_Temporal_Sentence_Grounding_With_Uncertainty-Guided_Self-Training_CVPR_2023_paper.html) |
+| 2023 | CVPR · A | [You Can Ground Earlier than See: An Effective and Efficient Pipeline for Temporal Sentence Grounding in Compressed Videos](https://openaccess.thecvf.com/content/CVPR2023/html/Fang_You_Can_Ground_Earlier_Than_See_An_Effective_and_Efficient_CVPR_2023_paper.html) | 长视频与效率 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Fang_You_Can_Ground_Earlier_Than_See_An_Effective_and_Efficient_CVPR_2023_paper.html) · [arXiv](https://arxiv.org/abs/2303.07863) |
+| 2022 | CVPR · A | [AxIoU: An Axiomatically Justified Measure for Video Moment Retrieval](https://openaccess.thecvf.com/content/CVPR2022/html/Togashi_AxIoU_An_Axiomatically_Justified_Measure_for_Video_Moment_Retrieval_CVPR_2022_paper.html) | 数据与评测 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Togashi_AxIoU_An_Axiomatically_Justified_Measure_for_Video_Moment_Retrieval_CVPR_2022_paper.html) · [arXiv](https://arxiv.org/abs/2203.16062) |
+| 2022 | CVPR · A | [Compositional Temporal Grounding with Structured Variational Cross-Graph Correspondence Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Compositional_Temporal_Grounding_With_Structured_Variational_Cross-Graph_Correspondence_Learning_CVPR_2022_paper.html) | 去偏与泛化 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Compositional_Temporal_Grounding_With_Structured_Variational_Cross-Graph_Correspondence_Learning_CVPR_2022_paper.html) · [arXiv](https://arxiv.org/abs/2203.13049) · [Code](https://github.com/YYJMJC/Compositional-Temporal-Grounding) |
+| 2022 | CVPR · A | [Ego4D: Around the World in 3,000 Hours of Egocentric Video](https://doi.org/10.1109/cvpr52688.2022.01842) | 数据与评测、长视频与效率 | [Paper](https://doi.org/10.1109/cvpr52688.2022.01842) · [arXiv](https://arxiv.org/abs/2110.07058) |
+| 2022 | CVPR · A | [Joint Video Summarization and Moment Localization by Cross-Task Sample Transfer](https://openaccess.thecvf.com/content/CVPR2022/html/Jiang_Joint_Video_Summarization_and_Moment_Localization_by_Cross-Task_Sample_Transfer_CVPR_2022_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Jiang_Joint_Video_Summarization_and_Moment_Localization_by_Cross-Task_Sample_Transfer_CVPR_2022_paper.html) |
+| 2022 | CVPR · A | [MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions](https://openaccess.thecvf.com/content/CVPR2022/html/Soldan_MAD_A_Scalable_Dataset_for_Language_Grounding_in_Videos_From_CVPR_2022_paper.html) | 数据与评测、长视频与效率 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Soldan_MAD_A_Scalable_Dataset_for_Language_Grounding_in_Videos_From_CVPR_2022_paper.html) · [arXiv](https://arxiv.org/abs/2112.00431) · [Code](https://github.com/Soldelli/MAD) |
+| 2022 | CVPR · A | [Semi-Supervised Video Paragraph Grounding With Contrastive Encoder](https://openaccess.thecvf.com/content/CVPR2022/html/Jiang_Semi-Supervised_Video_Paragraph_Grounding_With_Contrastive_Encoder_CVPR_2022_paper.html) | 点监督与低标注、多句与多区间 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Jiang_Semi-Supervised_Video_Paragraph_Grounding_With_Contrastive_Encoder_CVPR_2022_paper.html) |
+| 2022 | CVPR · A | [UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_UMT_Unified_Multi-Modal_Transformers_for_Joint_Video_Moment_Retrieval_and_CVPR_2022_paper.html) | 联合检索与高亮 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_UMT_Unified_Multi-Modal_Transformers_for_Joint_Video_Moment_Retrieval_and_CVPR_2022_paper.html) · [arXiv](https://arxiv.org/abs/2203.12745) · [Code](https://github.com/TencentARC/UMT) |
+| 2022 | CVPR · A | [Weakly Supervised Temporal Sentence Grounding with Gaussian-based Contrastive Proposal Learning](https://doi.org/10.1109/cvpr52688.2022.01511) | 弱监督 | [Paper](https://doi.org/10.1109/cvpr52688.2022.01511) · [Code](https://github.com/minghangz/cpl) |
+| 2021 | CVPR · A | [Cascaded Prediction Network via Segment Tree for Temporal Video Grounding](https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Cascaded_Prediction_Network_via_Segment_Tree_for_Temporal_Video_Grounding_CVPR_2021_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Cascaded_Prediction_Network_via_Segment_Tree_for_Temporal_Video_Grounding_CVPR_2021_paper.html) |
+| 2021 | CVPR · A | [Context-aware Biaffine Localizing Network for Temporal Sentence Grounding](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Context-Aware_Biaffine_Localizing_Network_for_Temporal_Sentence_Grounding_CVPR_2021_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Context-Aware_Biaffine_Localizing_Network_for_Temporal_Sentence_Grounding_CVPR_2021_paper.html) · [arXiv](https://arxiv.org/abs/2103.11555) |
+| 2021 | CVPR · A | [Embracing Uncertainty: Decoupling and De-bias for Robust Temporal Grounding](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Embracing_Uncertainty_Decoupling_and_De-Bias_for_Robust_Temporal_Grounding_CVPR_2021_paper.html) | 去偏与泛化 | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Embracing_Uncertainty_Decoupling_and_De-Bias_for_Robust_Temporal_Grounding_CVPR_2021_paper.html) · [arXiv](https://arxiv.org/abs/2103.16848) |
+| 2021 | CVPR · A | [Interventional Video Grounding with Dual Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Nan_Interventional_Video_Grounding_With_Dual_Contrastive_Learning_CVPR_2021_paper.html) | 去偏与泛化 | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Nan_Interventional_Video_Grounding_With_Dual_Contrastive_Learning_CVPR_2021_paper.html) · [arXiv](https://arxiv.org/abs/2106.11013) · [Code](https://github.com/nanguoshun/IVG) |
+| 2021 | CVPR · A | [Multi-Modal Relational Graph for Cross-Modal Video Moment Retrieval](https://openaccess.thecvf.com/content/CVPR2021/html/Zeng_Multi-Modal_Relational_Graph_for_Cross-Modal_Video_Moment_Retrieval_CVPR_2021_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zeng_Multi-Modal_Relational_Graph_for_Cross-Modal_Video_Moment_Retrieval_CVPR_2021_paper.html) |
+| 2021 | CVPR · A | [Multi-stage Aggregated Transformer Network for Temporal Language Localization in Videos](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.html) |
+| 2021 | CVPR · A | [Structured Multi-Level Interaction Network for Video Moment Localization via Language Query](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Structured_Multi-Level_Interaction_Network_for_Video_Moment_Localization_via_Language_CVPR_2021_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Structured_Multi-Level_Interaction_Network_for_Video_Moment_Localization_via_Language_CVPR_2021_paper.html) |
+| 2020 | CVPR · A | [Dense Regression Network for Video Grounding](https://openaccess.thecvf.com/content_CVPR_2020/html/Zeng_Dense_Regression_Network_for_Video_Grounding_CVPR_2020_paper.html) | 多句与多区间 | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zeng_Dense_Regression_Network_for_Video_Grounding_CVPR_2020_paper.html) · [arXiv](https://arxiv.org/abs/2004.03545) · [Code](https://github.com/Alvin-Zeng/DRN) |
+| 2020 | CVPR · A | [Local-Global Video-Text Interactions for Temporal Grounding](https://openaccess.thecvf.com/content_CVPR_2020/html/Mun_Local-Global_Video-Text_Interactions_for_Temporal_Grounding_CVPR_2020_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Mun_Local-Global_Video-Text_Interactions_for_Temporal_Grounding_CVPR_2020_paper.html) · [arXiv](https://arxiv.org/abs/2004.07514) · [Code](https://github.com/JonghwanMun/LGI4temporalgrounding) |
+| 2019 | CVPR · A | [MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_MAN_Moment_Alignment_Network_for_Natural_Language_Moment_Retrieval_via_CVPR_2019_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_MAN_Moment_Alignment_Network_for_Natural_Language_Moment_Retrieval_via_CVPR_2019_paper.html) · [Code](https://github.com/dazhang-cv/MAN) |
+| 2019 | CVPR · A | [Weakly Supervised Video Moment Retrieval From Text Queries](https://openaccess.thecvf.com/content_CVPR_2019/html/Mithun_Weakly_Supervised_Video_Moment_Retrieval_From_Text_Queries_CVPR_2019_paper.html) | 弱监督 | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Mithun_Weakly_Supervised_Video_Moment_Retrieval_From_Text_Queries_CVPR_2019_paper.html) · [Code](https://github.com/niluthpol/weak_supervised_video_moment) |
+
+### DASFAA · CCF B（1）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2023 | DASFAA · B | [An Adaptive Video Clip Sampling Approach for Enhancing Query-Based Moment Retrieval in Videos](https://doi.org/10.1007/978-3-031-30675-4_28) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1007/978-3-031-30675-4_28) |
+
+### ECCV · CCF B（21）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | ECCV · B | [DART: Difficulty-Adaptive Routing for Zero-Shot Video Temporal Grounding](https://doi.org/10.1007/978-3-032-37095-2_5) | 零样本与训练自由 | [Paper](https://doi.org/10.1007/978-3-032-37095-2_5) |
+| 2026 | ECCV · B | [DE2TR: Dual Evidence Detection Transformer for Video Temporal Grounding](https://doi.org/10.1007/978-3-032-36846-1_28) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1007/978-3-032-36846-1_28) |
+| 2026 | ECCV · B | [Decoupling Moment from Event for Video Temporal Grounding](https://doi.org/10.1007/978-3-032-37035-8_9) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1007/978-3-032-37035-8_9) |
+| 2026 | ECCV · B | [Keeping the Evidence Chain: Semantic Evidence Allocation for Training-Free Token Pruning in Video Temporal Grounding](https://doi.org/10.1007/978-3-032-37095-2_30) | 零样本与训练自由 | [Paper](https://doi.org/10.1007/978-3-032-37095-2_30) |
+| 2026 | ECCV · B | [Mitigating Modality and Language-Style Gaps for Zero-Shot Video Moment Retrieval](https://doi.org/10.1007/978-3-032-37083-9_10) | 零样本与训练自由 | [Paper](https://doi.org/10.1007/978-3-032-37083-9_10) |
+| 2026 | ECCV · B | [SE-DETR: Explicit Semantic Exploration for Generalizability and Distinguishability in Video Temporal Grounding](https://doi.org/10.1007/978-3-032-37324-3_9) | 去偏与泛化 | [Paper](https://doi.org/10.1007/978-3-032-37324-3_9) |
+| 2026 | ECCV · B | [TAR: Temporal Anchor-Constrained Reasoning for Video Temporal Grounding](https://doi.org/10.1007/978-3-032-37450-9_10) | 强化学习与推理 | [Paper](https://doi.org/10.1007/978-3-032-37450-9_10) |
+| 2024 | ECCV · B | [BAM-DETR: Boundary-Aligned Moment Detection Transformer for Temporal Sentence Grounding in Videos](https://doi.org/10.1007/978-3-031-72627-9_13) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1007/978-3-031-72627-9_13) · [arXiv](https://arxiv.org/abs/2312.00083) · [Code](https://github.com/Pilhyeon/BAM-DETR) |
+| 2024 | ECCV · B | [LITA: Language Instructed Temporal-Localization Assistant](https://doi.org/10.1007/978-3-031-73039-9_12) | 大模型、强化学习与推理 | [Paper](https://doi.org/10.1007/978-3-031-73039-9_12) · [arXiv](https://arxiv.org/abs/2403.19046) · [Code](https://github.com/NVlabs/LITA) |
+| 2024 | ECCV · B | [R2-Tuning: Efficient Image-to-Video Transfer Learning for Video Temporal Grounding](https://doi.org/10.1007/978-3-031-72940-9_24) | 长视频与效率 | [Paper](https://doi.org/10.1007/978-3-031-72940-9_24) |
+| 2024 | ECCV · B | [Rethinking Weakly-Supervised Video Temporal Grounding From a Game Perspective](https://doi.org/10.1007/978-3-031-72995-9_17) | 弱监督 | [Paper](https://doi.org/10.1007/978-3-031-72995-9_17) |
+| 2024 | ECCV · B | [TimeCraft: Navigate Weakly-Supervised Temporal Grounded Video Question Answering via Bi-directional Reasoning](https://doi.org/10.1007/978-3-031-72652-1_6)（时序证据 QA） | 弱监督、强化学习与推理、时序证据问答 | [Paper](https://doi.org/10.1007/978-3-031-72652-1_6) |
+| 2024 | ECCV · B | [Training-Free Video Temporal Grounding Using Large-Scale Pre-trained Models](https://doi.org/10.1007/978-3-031-73007-8_2) | 零样本与训练自由 | [Paper](https://doi.org/10.1007/978-3-031-73007-8_2) · [arXiv](https://arxiv.org/abs/2408.16219) |
+| 2024 | ECCV · B | [UniMD: Towards Unifying Moment Retrieval and Temporal Action Detection](https://doi.org/10.1007/978-3-031-72952-2_17) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1007/978-3-031-72952-2_17) |
+| 2022 | ECCV · B | [Can Shuffling Video Benefit Temporal Bias Problem: A Novel Training Framework for Temporal Grounding](https://doi.org/10.1007/978-3-031-20059-5_8) | 去偏与泛化 | [Paper](https://doi.org/10.1007/978-3-031-20059-5_8) |
+| 2022 | ECCV · B | [Selective Query-Guided Debiasing for Video Corpus Moment Retrieval](https://doi.org/10.1007/978-3-031-20059-5_11) | 视频库检索、去偏与泛化 | [Paper](https://doi.org/10.1007/978-3-031-20059-5_11) |
+| 2020 | ECCV · B | [Hierarchical Visual-Textual Graph for Temporal Activity Localization via Language](https://doi.org/10.1007/978-3-030-58565-5_36) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1007/978-3-030-58565-5_36) · [Code](https://github.com/forwchen/HVTG) |
+| 2020 | ECCV · B | [Learning Modality Interaction for Temporal Sentence Localization and Event Captioning in Videos](https://doi.org/10.1007/978-3-030-58548-8_20) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1007/978-3-030-58548-8_20) |
+| 2020 | ECCV · B | [TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval](https://doi.org/10.1007/978-3-030-58589-1_27) | 视频库检索、数据与评测 | [Paper](https://doi.org/10.1007/978-3-030-58589-1_27) |
+| 2020 | ECCV · B | [VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval](https://doi.org/10.1007/978-3-030-58604-1_10) | 弱监督 | [Paper](https://doi.org/10.1007/978-3-030-58604-1_10) |
+| 2018 | ECCV · B | [Temporal Modular Networks for Retrieving Complex Compositional Activities in Videos](https://openaccess.thecvf.com/content_ECCV_2018/html/Bingbin_Liu_Temporal_Modular_Networks_ECCV_2018_paper.html) | 去偏与泛化 | [Paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Bingbin_Liu_Temporal_Modular_Networks_ECCV_2018_paper.html) |
+
+### EMNLP · CCF B（11）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2025 | EMNLP · B | [Datasets and Recipes for Video Temporal Grounding via Reinforcement Learning](https://doi.org/10.18653/v1/2025.emnlp-industry.66) | 强化学习与推理、数据与评测 | [Paper](https://doi.org/10.18653/v1/2025.emnlp-industry.66) |
+| 2024 | EMNLP · B | [Efficient Temporal Extrapolation of Multimodal Large Language Models with Temporal Grounding Bridge](https://doi.org/10.18653/v1/2024.emnlp-main.556) | 长视频与效率、大模型 | [Paper](https://doi.org/10.18653/v1/2024.emnlp-main.556) · [Code](https://github.com/bigai-nlco/VideoTGB) |
+| 2022 | EMNLP · B | [Modal-specific Pseudo Query Generation for Video Corpus Moment Retrieval](https://doi.org/10.18653/v1/2022.emnlp-main.530) | 视频库检索 | [Paper](https://doi.org/10.18653/v1/2022.emnlp-main.530) |
+| 2021 | EMNLP · B | [Adaptive Proposal Generation Network for Temporal Sentence Localization in Videos](https://doi.org/10.18653/v1/2021.emnlp-main.732) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.18653/v1/2021.emnlp-main.732) |
+| 2021 | EMNLP · B | [Natural Language Video Localization with Learnable Moment Proposals](https://doi.org/10.18653/v1/2021.emnlp-main.327) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.18653/v1/2021.emnlp-main.327) |
+| 2021 | EMNLP · B | [On Pursuit of Designing Multi-modal Transformer for Video Grounding](https://doi.org/10.18653/v1/2021.emnlp-main.773) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.18653/v1/2021.emnlp-main.773) |
+| 2021 | EMNLP · B | [Progressively Guide to Attend: An Iterative Alignment Framework for Temporal Sentence Grounding](https://doi.org/10.18653/v1/2021.emnlp-main.733) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.18653/v1/2021.emnlp-main.733) |
+| 2021 | EMNLP · B | [Relation-aware Video Reading Comprehension for Temporal Language Grounding](https://doi.org/10.18653/v1/2021.emnlp-main.324) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.18653/v1/2021.emnlp-main.324) · [Code](https://github.com/Huntersxsx/RaNet) |
+| 2019 | EMNLP · B | [DEBUG: A Dense Bottom-Up Grounding Approach for Natural Language Video Localization](https://doi.org/10.18653/v1/d19-1518) | 多句与多区间 | [Paper](https://doi.org/10.18653/v1/d19-1518) |
+| 2018 | EMNLP · B | [Localizing Moments in Video with Temporal Language](https://doi.org/10.18653/v1/d18-1168) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.18653/v1/d18-1168) · [Code](https://github.com/LisaAnne/TemporalLanguageRelease) |
+| 2018 | EMNLP · B | [Temporally Grounding Natural Sentence in Video](https://doi.org/10.18653/v1/d18-1015) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.18653/v1/d18-1015) · [Code](https://github.com/JaywongWang/TGN) |
+
+### ICASSP · CCF B（16）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | ICASSP · B | [Audio-Visual Feature Fusion for Calibrating Relevance Scores of Video Moment Retrieval](https://doi.org/10.1109/icassp55912.2026.11464564) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/icassp55912.2026.11464564) |
+| 2026 | ICASSP · B | [Balancing Accuracy and Diversity: Evolving Anchor Matching for Video Temporal Grounding](https://doi.org/10.1109/icassp55912.2026.11461820) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/icassp55912.2026.11461820) |
+| 2026 | ICASSP · B | [Bidirectional Semantic Enhancement Network for Video Moment Retrieval](https://doi.org/10.1109/icassp55912.2026.11460541) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/icassp55912.2026.11460541) |
+| 2026 | ICASSP · B | [D 2 -DETR: Dual-Sourced Augmentation with Duration-Aware Differential Decoder for Video Temporal Grounding](https://doi.org/10.1109/icassp55912.2026.11464255) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/icassp55912.2026.11464255) |
+| 2026 | ICASSP · B | [HLF: A Hierarchical Localization Framework for Joint Moment Retrieval and Highlight Detection](https://doi.org/10.1109/icassp55912.2026.11461890) | 联合检索与高亮 | [Paper](https://doi.org/10.1109/icassp55912.2026.11461890) |
+| 2025 | ICASSP · B | [Contrast-Unity for Partially-Supervised Temporal Sentence Grounding](https://doi.org/10.1109/icassp49660.2025.10888314) | 点监督与低标注 | [Paper](https://doi.org/10.1109/icassp49660.2025.10888314) |
+| 2025 | ICASSP · B | [Diversified Augmentation with Domain Adaptation for Debiased Video Temporal Grounding](https://doi.org/10.1109/icassp49660.2025.10888960) | 去偏与泛化 | [Paper](https://doi.org/10.1109/icassp49660.2025.10888960) |
+| 2025 | ICASSP · B | [FAWL: Weakly-Supervised Video Corpus Moment Retrieval with Frame-Wise Auxiliary Alignment and Weighted Contrastive Learning](https://doi.org/10.1109/icassp49660.2025.10887823) | 弱监督、视频库检索 | [Paper](https://doi.org/10.1109/icassp49660.2025.10887823) · [Code](https://github.com/BUAAPY/FAWL) |
+| 2025 | ICASSP · B | [RefCap: Zero-shot Video Corpus Moment Retrieval Based on Refined Dense Video Captioning](https://doi.org/10.1109/icassp49660.2025.10888164) | 视频库检索、零样本与训练自由 | [Paper](https://doi.org/10.1109/icassp49660.2025.10888164) |
+| 2024 | ICASSP · B | [Mrtnet: Multi-Resolution Temporal Network for Video Sentence Grounding](https://doi.org/10.1109/icassp48485.2024.10447846) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/icassp48485.2024.10447846) |
+| 2023 | ICASSP · B | [Counterfactual Two-Stage Debiasing For Video Corpus Moment Retrieval](https://doi.org/10.1109/icassp49357.2023.10095182) | 视频库检索、去偏与泛化 | [Paper](https://doi.org/10.1109/icassp49357.2023.10095182) |
+| 2023 | ICASSP · B | [FedVMR: A New Federated Learning Method for Video Moment Retrieval](https://doi.org/10.1109/icassp49357.2023.10096019) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/icassp49357.2023.10096019) |
+| 2023 | ICASSP · B | [Jointly Visual- and Semantic-Aware Graph Memory Networks for Temporal Sentence Localization in Videos](https://doi.org/10.1109/icassp49357.2023.10096382) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/icassp49357.2023.10096382) |
+| 2023 | ICASSP · B | [Tracking Objects and Activities with Attention for Temporal Sentence Grounding](https://doi.org/10.1109/icassp49357.2023.10096206) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/icassp49357.2023.10096206) |
+| 2022 | ICASSP · B | [Semantic Association Network for Video Corpus Moment Retrieval](https://doi.org/10.1109/icassp43922.2022.9747523) | 视频库检索 | [Paper](https://doi.org/10.1109/icassp43922.2022.9747523) |
+| 2021 | ICASSP · B | [ECCL: Explicit Correlation-Based Convolution Boundary Locator for Moment Localization](https://doi.org/10.1109/icassp39728.2021.9414047) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/icassp39728.2021.9414047) |
+
+### ICCV · CCF A（28）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2025 | ICCV · A | [Augmenting Moment Retrieval: Zero-Dependency Two-Stage Learning](https://openaccess.thecvf.com/content/ICCV2025/html/Wei_Augmenting_Moment_Retrieval_Zero-Dependency_Two-Stage_Learning_ICCV_2025_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Wei_Augmenting_Moment_Retrieval_Zero-Dependency_Two-Stage_Learning_ICCV_2025_paper.html) |
+| 2025 | ICCV · A | [Enrich and Detect: Video Temporal Grounding With Multimodal Llms](https://openaccess.thecvf.com/content/ICCV2025/html/Pramanick_Enrich_and_Detect_Video_Temporal_Grounding_with_Multimodal_LLMs_ICCV_2025_paper.html) | 大模型 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Pramanick_Enrich_and_Detect_Video_Temporal_Grounding_with_Multimodal_LLMs_ICCV_2025_paper.html) |
+| 2025 | ICCV · A | [Factorized Learning for Temporally Grounded Video-Language Models](https://openaccess.thecvf.com/content/ICCV2025/html/Zeng_Factorized_Learning_for_Temporally_Grounded_Video-Language_Models_ICCV_2025_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zeng_Factorized_Learning_for_Temporally_Grounded_Video-Language_Models_ICCV_2025_paper.html) · [Code](https://github.com/nusnlp/d2vlm) |
+| 2025 | ICCV · A | [Hierarchical Event Memory for Accurate and Low-Latency Online Video Temporal Grounding](https://openaccess.thecvf.com/content/ICCV2025/html/Zheng_Hierarchical_Event_Memory_for_Accurate_and_Low-latency_Online_Video_Temporal_ICCV_2025_paper.html) | 在线与流式 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zheng_Hierarchical_Event_Memory_for_Accurate_and_Low-latency_Online_Video_Temporal_ICCV_2025_paper.html) · [arXiv](https://arxiv.org/abs/2508.04546) · [Code](https://github.com/minghangz/OnVTG) |
+| 2025 | ICCV · A | [KDA: Knowledge Diffusion Alignment with Enhanced Context for Video Temporal Grounding](https://openaccess.thecvf.com/content/ICCV2025/html/Ran_KDA_Knowledge_Diffusion_Alignment_with_Enhanced_Context_for_Video_Temporal_ICCV_2025_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Ran_KDA_Knowledge_Diffusion_Alignment_with_Enhanced_Context_for_Video_Temporal_ICCV_2025_paper.html) |
+| 2025 | ICCV · A | [Moment Quantization for Video Temporal Grounding](https://openaccess.thecvf.com/content/ICCV2025/html/Sun_Moment_Quantization_for_Video_Temporal_Grounding_ICCV_2025_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Sun_Moment_Quantization_for_Video_Temporal_Grounding_ICCV_2025_paper.html) · [arXiv](https://arxiv.org/abs/2504.02286) · [Code](https://github.com/TensorsSun/MQVTG) |
+| 2025 | ICCV · A | [OVG-HQ: Online Video Grounding with Hybrid-modal Queries](https://openaccess.thecvf.com/content/ICCV2025/html/Zeng_OVG-HQ_Online_Video_Grounding_with_Hybrid-modal_Queries_ICCV_2025_paper.html) | 在线与流式 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zeng_OVG-HQ_Online_Video_Grounding_with_Hybrid-modal_Queries_ICCV_2025_paper.html) |
+| 2025 | ICCV · A | [Sim-DETR: Unlock DETR for Temporal Sentence Grounding](https://openaccess.thecvf.com/content/ICCV2025/html/Tang_Sim-DETR_Unlock_DETR_for_Temporal_Sentence_Grounding_ICCV_2025_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Tang_Sim-DETR_Unlock_DETR_for_Temporal_Sentence_Grounding_ICCV_2025_paper.html) |
+| 2025 | ICCV · A | [Sparse-Dense Side-Tuner for Efficient Video Temporal Grounding](https://openaccess.thecvf.com/content/ICCV2025/html/Pujol-Perich_Sparse-Dense_Side-Tuner_for_efficient_Video_Temporal_Grounding_ICCV_2025_paper.html) | 长视频与效率、多句与多区间 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Pujol-Perich_Sparse-Dense_Side-Tuner_for_efficient_Video_Temporal_Grounding_ICCV_2025_paper.html) · [Code](https://github.com/davidpujol/SDST) |
+| 2025 | ICCV · A | [The Devil is in the Spurious Correlations: Boosting Moment Retrieval with Dynamic Learning](https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_The_Devil_is_in_the_Spurious_Correlations_Boosting_Moment_Retrieval_ICCV_2025_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_The_Devil_is_in_the_Spurious_Correlations_Boosting_Moment_Retrieval_ICCV_2025_paper.html) · [arXiv](https://arxiv.org/abs/2501.07305) · [Code](https://github.com/xyangzhou/TD-DETR) |
+| 2025 | ICCV · A | [Timeexpert: an Expert-Guided Video Llm for Video Temporal Grounding](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_TimeExpert_An_Expert-Guided_Video_LLM_for_Video_Temporal_Grounding_ICCV_2025_paper.html) | 大模型 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_TimeExpert_An_Expert-Guided_Video_LLM_for_Video_Temporal_Grounding_ICCV_2025_paper.html) · [arXiv](https://arxiv.org/abs/2508.01699) |
+| 2025 | ICCV · A | [TOGA: Temporally Grounded Open-Ended Video QA with Weak Supervision](https://openaccess.thecvf.com/content/ICCV2025/html/Gupta_TOGA_Temporally_Grounded_Open-Ended_Video_QA_with_Weak_Supervision_ICCV_2025_paper.html)（时序证据 QA） | 时序证据问答 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Gupta_TOGA_Temporally_Grounded_Open-Ended_Video_QA_with_Weak_Supervision_ICCV_2025_paper.html) · [arXiv](https://arxiv.org/abs/2506.09445) |
+| 2025 | ICCV · A | [Vid-Group: Temporal Video Grounding Pretraining from Unlabeled Videos in the Wild](https://openaccess.thecvf.com/content/ICCV2025/html/Bao_Vid-Group_Temporal_Video_Grounding_Pretraining_from_Unlabeled_Videos_in_the_ICCV_2025_paper.html) | 弱监督 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Bao_Vid-Group_Temporal_Video_Grounding_Pretraining_from_Unlabeled_Videos_in_the_ICCV_2025_paper.html) · [Code](https://github.com/baopj/Vid-Group) |
+| 2025 | ICCV · A | [VTimeCoT: Thinking by Drawing for Video Temporal Grounding and Reasoning](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_VTimeCoT_Thinking_by_Drawing_for_Video_Temporal_Grounding_and_Reasoning_ICCV_2025_paper.html) | 强化学习与推理 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_VTimeCoT_Thinking_by_Drawing_for_Video_Temporal_Grounding_and_Reasoning_ICCV_2025_paper.html) |
+| 2023 | ICCV · A | [D3G: Exploring Gaussian Prior for Temporal Sentence Grounding with Glance Annotation](https://doi.org/10.1109/iccv51070.2023.01263) | 点监督与低标注 | [Paper](https://doi.org/10.1109/iccv51070.2023.01263) · [Code](https://github.com/solicucu/D3G) |
+| 2023 | ICCV · A | [G2L: Semantically Aligned and Uniform Video Grounding via Geodesic and Game Theory](https://openaccess.thecvf.com/content/ICCV2023/html/Li_G2L_Semantically_Aligned_and_Uniform_Video_Grounding_via_Geodesic_and_ICCV_2023_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Li_G2L_Semantically_Aligned_and_Uniform_Video_Grounding_via_Geodesic_and_ICCV_2023_paper.html) · [arXiv](https://arxiv.org/abs/2307.14277) |
+| 2023 | ICCV · A | [Knowing Where to Focus: Event-aware Transformer for Video Grounding](https://openaccess.thecvf.com/content/ICCV2023/html/Jang_Knowing_Where_to_Focus_Event-aware_Transformer_for_Video_Grounding_ICCV_2023_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Jang_Knowing_Where_to_Focus_Event-aware_Transformer_for_Video_Grounding_ICCV_2023_paper.html) · [arXiv](https://arxiv.org/abs/2308.06947) · [Code](https://github.com/jinhyunj/EaTR) |
+| 2023 | ICCV · A | [Localizing Moments in Long Video Via Multimodal Guidance](https://openaccess.thecvf.com/content/ICCV2023/html/Barrios_Localizing_Moments_in_Long_Video_Via_Multimodal_Guidance_ICCV_2023_paper.html) | 长视频与效率 | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Barrios_Localizing_Moments_in_Long_Video_Via_Multimodal_Guidance_ICCV_2023_paper.html) · [arXiv](https://arxiv.org/abs/2302.13372) · [Code](https://github.com/waybarrios/guidance-based-video-grounding) |
+| 2023 | ICCV · A | [SCANet: Scene Complexity Aware Network for Weakly-Supervised Video Moment Retrieval](https://openaccess.thecvf.com/content/ICCV2023/html/Yoon_SCANet_Scene_Complexity_Aware_Network_for_Weakly-Supervised_Video_Moment_Retrieval_ICCV_2023_paper.html) | 弱监督 | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yoon_SCANet_Scene_Complexity_Aware_Network_for_Weakly-Supervised_Video_Moment_Retrieval_ICCV_2023_paper.html) |
+| 2023 | ICCV · A | [Scanning Only Once: An End-to-end Framework for Fast Temporal Grounding in Long Videos](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Scanning_Only_Once_An_End-to-end_Framework_for_Fast_Temporal_Grounding_ICCV_2023_paper.html) | 长视频与效率 | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Scanning_Only_Once_An_End-to-end_Framework_for_Fast_Temporal_Grounding_ICCV_2023_paper.html) · [arXiv](https://arxiv.org/abs/2303.08345) |
+| 2023 | ICCV · A | [UniVTG: Towards Unified Video-Language Temporal Grounding](https://openaccess.thecvf.com/content/ICCV2023/html/Lin_UniVTG_Towards_Unified_Video-Language_Temporal_Grounding_ICCV_2023_paper.html) | 联合检索与高亮 | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Lin_UniVTG_Towards_Unified_Video-Language_Temporal_Grounding_ICCV_2023_paper.html) · [arXiv](https://arxiv.org/abs/2307.16715) · [Code](https://github.com/showlab/UniVTG) |
+| 2021 | ICCV · A | [Boundary-sensitive Pre-training for Temporal Localization in Videos](https://openaccess.thecvf.com/content/ICCV2021/html/Xu_Boundary-Sensitive_Pre-Training_for_Temporal_Localization_in_Videos_ICCV_2021_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Xu_Boundary-Sensitive_Pre-Training_for_Temporal_Localization_in_Videos_ICCV_2021_paper.html) · [Code](https://github.com/frostinassiky/bsp) |
+| 2021 | ICCV · A | [Fast Video Moment Retrieval](https://openaccess.thecvf.com/content/ICCV2021/html/Gao_Fast_Video_Moment_Retrieval_ICCV_2021_paper.html) | 长视频与效率 | [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Gao_Fast_Video_Moment_Retrieval_ICCV_2021_paper.html) |
+| 2021 | ICCV · A | [Support-Set Based Cross-Supervision for Video Grounding](https://openaccess.thecvf.com/content/ICCV2021/html/Ding_Support-Set_Based_Cross-Supervision_for_Video_Grounding_ICCV_2021_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Ding_Support-Set_Based_Cross-Supervision_for_Video_Grounding_ICCV_2021_paper.html) · [arXiv](https://arxiv.org/abs/2108.10576) |
+| 2021 | ICCV · A | [Zero-shot Natural Language Video Localization](https://openaccess.thecvf.com/content/ICCV2021/html/Nam_Zero-Shot_Natural_Language_Video_Localization_ICCV_2021_paper.html) | 零样本与训练自由 | [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Nam_Zero-Shot_Natural_Language_Video_Localization_ICCV_2021_paper.html) · [arXiv](https://arxiv.org/abs/2110.00428) · [Code](https://github.com/gistvision/PSVL) |
+| 2017 | ICCV · A | [Dense-Captioning Events in Videos](https://doi.org/10.1109/iccv.2017.83) | 数据与评测 | [Paper](https://doi.org/10.1109/iccv.2017.83) · [arXiv](https://arxiv.org/abs/1705.00754) |
+| 2017 | ICCV · A | [Localizing Moments in Video with Natural Language](https://openaccess.thecvf.com/content_iccv_2017/html/Hendricks_Localizing_Moments_in_ICCV_2017_paper.html) | 跨模态定位与边界建模、数据与评测 | [Paper](https://openaccess.thecvf.com/content_iccv_2017/html/Hendricks_Localizing_Moments_in_ICCV_2017_paper.html) · [arXiv](https://arxiv.org/abs/1708.01641) · [Code](https://github.com/LisaAnne/LocalizingMoments) |
+| 2017 | ICCV · A | [TALL: Temporal Activity Localization via Language Query](https://openaccess.thecvf.com/content_iccv_2017/html/Gao_TALL_Temporal_Activity_ICCV_2017_paper.html) | 跨模态定位与边界建模 | [Paper](https://openaccess.thecvf.com/content_iccv_2017/html/Gao_TALL_Temporal_Activity_ICCV_2017_paper.html) · [arXiv](https://arxiv.org/abs/1705.02101) · [Code](https://github.com/jiyanggao/TALL) |
+
+### ICLR · CCF A（8）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | ICLR · A | [Divid: Disentangled Spatial-Temporal Modeling within LLMs for Temporally Grounded Video Understanding](https://proceedings.iclr.cc/paper_files/paper/2026/hash/1c85c302ece39939c1b334c78f7ee1b8-Abstract-Conference.html) | 大模型、时序证据问答 | [Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/1c85c302ece39939c1b334c78f7ee1b8-Abstract-Conference.html) |
+| 2026 | ICLR · A | [HiTeA: Hierarchical Temporal Alignment for Training-Free Long-Video Temporal Grounding](https://proceedings.iclr.cc/paper_files/paper/2026/hash/50e3c627697a456e29ec797c36621516-Abstract-Conference.html) | 零样本与训练自由、长视频与效率 | [Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/50e3c627697a456e29ec797c36621516-Abstract-Conference.html) |
+| 2026 | ICLR · A | [Invert4TVG: A Temporal Video Grounding Framework with Inversion Tasks Preserving Action Understanding Ability](https://proceedings.iclr.cc/paper_files/paper/2026/hash/cba6f4460a1f395f68a88598c86e79bd-Abstract-Conference.html) | 大模型 | [Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/cba6f4460a1f395f68a88598c86e79bd-Abstract-Conference.html) |
+| 2026 | ICLR · A | [VideoMind: A Chain-of-LoRA Agent for Temporal-Grounded Video Reasoning](https://proceedings.iclr.cc/paper_files/paper/2026/hash/5e84e4413268b713f0d4a1b23a9dae57-Abstract-Conference.html)（时序证据 QA） | 跨模态定位与边界建模、时序证据问答 | [Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/5e84e4413268b713f0d4a1b23a9dae57-Abstract-Conference.html) |
+| 2025 | ICLR · A | [CG-Bench: Clue-grounded Question Answering Benchmark for Long Video Understanding](https://proceedings.iclr.cc/paper_files/paper/2025/hash/70fa5df8e3300dc30bf19bee44a56155-Abstract-Conference.html)（时序证据 QA） | 跨模态定位与边界建模、时序证据问答 | [Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/70fa5df8e3300dc30bf19bee44a56155-Abstract-Conference.html) |
+| 2025 | ICLR · A | [Generalized Video Moment Retrieval](https://proceedings.iclr.cc/paper_files/paper/2025/hash/7ac19fdcdf4f311f3e3ef2e7ef4784d7-Abstract-Conference.html) | 开放集与拒绝、多句与多区间、数据与评测 | [Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/7ac19fdcdf4f311f3e3ef2e7ef4784d7-Abstract-Conference.html) |
+| 2025 | ICLR · A | [TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning](https://proceedings.iclr.cc/paper_files/paper/2025/hash/5e8309c9ca683e11672e3dbcd4b87776-Abstract-Conference.html) | 大模型、长视频与效率 | [Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/5e8309c9ca683e11672e3dbcd4b87776-Abstract-Conference.html) · [arXiv](https://arxiv.org/abs/2410.19702) · [Code](https://github.com/OpenGVLab/TimeSuite) |
+| 2025 | ICLR · A | [TRACE: Temporal Grounding Video LLM via Causal Event Modeling](https://proceedings.iclr.cc/paper_files/paper/2025/hash/df027cf11469e746ef94d583f9f5537f-Abstract-Conference.html) | 大模型、联合检索与高亮 | [Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/df027cf11469e746ef94d583f9f5537f-Abstract-Conference.html) · [arXiv](https://arxiv.org/abs/2410.05643) · [Code](https://github.com/gyxxyg/TRACE) |
+
+### ICME · CCF B（19）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2025 | ICME · B | [Concept-Centric Learning for Weakly-Supervised Temporal Sentence Grounding](https://doi.org/10.1109/icme59968.2025.11209034) | 弱监督 | [Paper](https://doi.org/10.1109/icme59968.2025.11209034) |
+| 2025 | ICME · B | [Context Consistency Learning via Sentence Removal for Semi-Supervised Video Paragraph Grounding](https://doi.org/10.1109/icme59968.2025.11209094) | 点监督与低标注、多句与多区间 | [Paper](https://doi.org/10.1109/icme59968.2025.11209094) |
+| 2025 | ICME · B | [Context-Enhanced Zero-Shot Video Temporal Grounding with Adaptive Boundary Refinement](https://doi.org/10.1109/icme59968.2025.11209776) | 零样本与训练自由 | [Paper](https://doi.org/10.1109/icme59968.2025.11209776) |
+| 2025 | ICME · B | [DF-Net: A Dual Fusion Network for Accurate Video Temporal Grounding](https://doi.org/10.1109/icme59968.2025.11209120) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/icme59968.2025.11209120) |
+| 2025 | ICME · B | [Dynamic Feature-Focusing with Cross-Modal Semantic Alignment for Video Moment Retrieval and Highlight Detection](https://doi.org/10.1109/icme59968.2025.11209150) | 联合检索与高亮 | [Paper](https://doi.org/10.1109/icme59968.2025.11209150) |
+| 2025 | ICME · B | [Key-semantics Alignment Learning with Contextual Understanding for Video Moment Retrieval](https://doi.org/10.1109/icme59968.2025.11209958) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/icme59968.2025.11209958) |
+| 2025 | ICME · B | [Localizing Step-by-Step: Multimodal Long Video Temporal Grounding with LLM](https://doi.org/10.1109/icme59968.2025.11209793) | 长视频与效率、大模型 | [Paper](https://doi.org/10.1109/icme59968.2025.11209793) |
+| 2024 | ICME · B | [Frequency-Domain Enhanced Cross-modal Interaction Mechanism for Joint Video Moment Retrieval and Highlight Detection](https://doi.org/10.1109/icme57554.2024.10687426) | 去偏与泛化、联合检索与高亮 | [Paper](https://doi.org/10.1109/icme57554.2024.10687426) |
+| 2024 | ICME · B | [Multi-Modal Fusion and Query Refinement Network for Video Moment Retrieval and Highlight Detection](https://doi.org/10.1109/icme57554.2024.10687844) | 联合检索与高亮 | [Paper](https://doi.org/10.1109/icme57554.2024.10687844) |
+| 2024 | ICME · B | [Temporal Feature Aggregation for Efficient 2D Video Grounding](https://doi.org/10.1109/icme57554.2024.10687387) | 长视频与效率 | [Paper](https://doi.org/10.1109/icme57554.2024.10687387) |
+| 2024 | ICME · B | [Temporal Self-Paced Proposal Learning for Weakly-Supervised Video Moment Retrieval and Highlight Detection](https://doi.org/10.1109/icme57554.2024.10687638) | 弱监督、联合检索与高亮 | [Paper](https://doi.org/10.1109/icme57554.2024.10687638) |
+| 2024 | ICME · B | [Temporal Sentence Grounding with Temporally Global Textual Knowledge](https://doi.org/10.1109/icme57554.2024.10687646) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/icme57554.2024.10687646) |
+| 2023 | ICME · B | [CHAN: Cross-Modal Hybrid Attention Network for Temporal Language Grounding in Videos](https://doi.org/10.1109/icme55011.2023.00259) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/icme55011.2023.00259) |
+| 2023 | ICME · B | [Conditional Video-Text Reconstruction Network with Cauchy Mask for Weakly Supervised Temporal Sentence Grounding](https://doi.org/10.1109/icme55011.2023.00261) | 弱监督 | [Paper](https://doi.org/10.1109/icme55011.2023.00261) |
+| 2023 | ICME · B | [MIM: Lightweight Multi-Modal Interaction Model for Joint Video Moment Retrieval and Highlight Detection](https://doi.org/10.1109/icme55011.2023.00336) | 长视频与效率、联合检索与高亮 | [Paper](https://doi.org/10.1109/icme55011.2023.00336) |
+| 2023 | ICME · B | [Temporal-enhanced Cross-modality Fusion Network for Video Sentence Grounding](https://doi.org/10.1109/icme55011.2023.00257) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/icme55011.2023.00257) |
+| 2022 | ICME · B | [A Hybird Alignment Loss for Temporal Moment Localization with Natural Language](https://doi.org/10.1109/icme52920.2022.9859675) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/icme52920.2022.9859675) |
+| 2022 | ICME · B | [GTLR: Graph-Based Transformer with Language Reconstruction for Video Paragraph Grounding](https://doi.org/10.1109/icme52920.2022.9859847) | 多句与多区间 | [Paper](https://doi.org/10.1109/icme52920.2022.9859847) |
+| 2021 | ICME · B | [Diving Into The Relations: Leveraging Semantic and Visual Structures For Video Moment Retrieval](https://doi.org/10.1109/icme51207.2021.9428369) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/icme51207.2021.9428369) |
+
+### ICML · CCF A（8）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | ICML · A | [CACR: Reinforcing Temporal Answer Grounding in Instructional Video via Candidate-Aware Causal Reasoning](https://proceedings.mlr.press/v306/qi26g.html)（时序证据 QA） | 时序证据问答、强化学习与推理 | [Paper](https://proceedings.mlr.press/v306/qi26g.html) |
+| 2026 | ICML · A | [Foresee-to-Ground: From Predictive Temporal Perception to Evidence-Driven Reasoning for Video Temporal Grounding](https://proceedings.mlr.press/v306/zheng26l.html) | 大模型、强化学习与推理 | [Paper](https://proceedings.mlr.press/v306/zheng26l.html) · [Code](https://github.com/zelion2003/Foresee-to-Ground) |
+| 2026 | ICML · A | [Temporal-Aware Reasoning Optimization for Video Temporal Grounding](https://proceedings.mlr.press/v306/zheng26ad.html) | 强化学习与推理、大模型 | [Paper](https://proceedings.mlr.press/v306/zheng26ad.html) · [Code](https://github.com/oceanflowlab/TaRO) |
+| 2026 | ICML · A | [Towards One-to-Many Temporal Grounding](https://proceedings.mlr.press/v306/xu26cc.html) | 多句与多区间、强化学习与推理、数据与评测 | [Paper](https://proceedings.mlr.press/v306/xu26cc.html) |
+| 2026 | ICML · A | [Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation](https://proceedings.mlr.press/v306/li26im.html) | 大模型、强化学习与推理 | [Paper](https://proceedings.mlr.press/v306/li26im.html) |
+| 2026 | ICML · A | [VideoTemp-o3: Harmonizing Temporal Grounding and Video Understanding in Agentic Thinking-with-Videos](https://proceedings.mlr.press/v306/liu26ej.html)（时序证据 QA） | 时序证据问答、大模型、强化学习与推理 | [Paper](https://proceedings.mlr.press/v306/liu26ej.html) |
+| 2025 | ICML · A | [GOTE: You Can GrOund TwicE for Long Temporal Video Grounding](https://doi.org/10.1109/icmlca66850.2025.11336768) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/icmlca66850.2025.11336768) |
+| 2024 | ICML · A | [Momentor: Advancing Video Large Language Model with Fine-Grained Temporal Reasoning](https://proceedings.mlr.press/v235/qian24a.html) | 大模型、数据与评测 | [Paper](https://proceedings.mlr.press/v235/qian24a.html) · [arXiv](https://arxiv.org/abs/2402.11435) · [Code](https://github.com/DCDmllm/Momentor) |
+
+### ICMR · CCF B（10）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | ICMR · B | [DenseSpeech: Dense Multi-Segment Temporal Grounding in Public Speaking Videos](https://doi.org/10.1145/3805622.3810702) | 多句与多区间 | [Paper](https://doi.org/10.1145/3805622.3810702) |
+| 2026 | ICMR · B | [Event-Centric Structural Modeling for Zero-Shot Video Moment Retrieval](https://doi.org/10.1145/3805622.3810648) | 零样本与训练自由 | [Paper](https://doi.org/10.1145/3805622.3810648) |
+| 2026 | ICMR · B | [VideoTG-R1: Boosting Video Temporal Grounding via Curriculum Reinforcement Learning on Reflected Boundary Annotations](https://doi.org/10.1145/3805622.3810709) | 强化学习与推理 | [Paper](https://doi.org/10.1145/3805622.3810709) · [Code](https://github.com/ldong1111/VideoTG-R1) |
+| 2025 | ICMR · B | [Event-Driven Hybrid and Cross-Stage Guide for Video Corpus Moment Retrieval](https://doi.org/10.1145/3731715.3733330) | 视频库检索 | [Paper](https://doi.org/10.1145/3731715.3733330) |
+| 2024 | ICMR · B | [A Parallel Transformer Framework for Video Moment Retrieval](https://doi.org/10.1145/3652583.3658096) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3652583.3658096) |
+| 2024 | ICMR · B | [Improving Video Corpus Moment Retrieval with Partial Relevance Enhancement](https://doi.org/10.1145/3652583.3658088) | 点监督与低标注、视频库检索 | [Paper](https://doi.org/10.1145/3652583.3658088) |
+| 2022 | ICMR · B | [Dual-Channel Localization Networks for Moment Retrieval with Natural Language](https://doi.org/10.1145/3512527.3531394) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3512527.3531394) |
+| 2022 | ICMR · B | [Learning Sample Importance for Cross-Scenario Video Temporal Grounding](https://doi.org/10.1145/3512527.3531403) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3512527.3531403) |
+| 2021 | ICMR · B | [Local-enhanced Interaction for Temporal Moment Localization](https://doi.org/10.1145/3460426.3463616) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3460426.3463616) |
+| 2019 | ICMR · B | [Cross-Modal Video Moment Retrieval with Spatial and Language-Temporal Attention](https://doi.org/10.1145/3323873.3325019) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3323873.3325019) · [Code](https://github.com/BonnieHuangxin/SLTA) |
+
+### IJCAI · CCF B（1）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2025 | IJCAI · B | [Denoise-then-Retrieve: Text-Conditioned Video Denoising for Video Moment Retrieval](https://doi.org/10.24963/ijcai.2025/180) | 去偏与泛化 | [Paper](https://doi.org/10.24963/ijcai.2025/180) |
+
+### MICCAI · CCF B（1）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | MICCAI · B | [Surgical Video Temporal Grounding](https://doi.org/10.1007/978-3-032-38233-7_51) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1007/978-3-032-38233-7_51) |
+
+### NAACL · CCF B（1）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2019 | NAACL · B | [ExCL: Extractive Clip Localization Using Natural Language Descriptions](https://aclanthology.org/N19-1198/) | 跨模态定位与边界建模 | [Paper](https://aclanthology.org/N19-1198/) |
+
+### NeurIPS · CCF A（16）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2025 | NeurIPS · A | [CausalVTG: Towards Robust Video Temporal Grounding via Causal Inference](https://doi.org/10.52202/085713-3461) | 去偏与泛化 | [Paper](https://doi.org/10.52202/085713-3461) |
+| 2025 | NeurIPS · A | [MomentSeeker: A Task-Oriented Benchmark For Long-Video Moment Retrieval](https://doi.org/10.52202/085713-0934) | 长视频与效率、数据与评测 | [Paper](https://doi.org/10.52202/085713-0934) |
+| 2025 | NeurIPS · A | [PC-Net: Weakly Supervised Compositional Moment Retrieval via Proposal-Centric Network](https://doi.org/10.52202/085713-4414) | 弱监督、去偏与泛化 | [Paper](https://doi.org/10.52202/085713-4414) · [Code](https://github.com/mingyao1120/PC-Net) |
+| 2025 | NeurIPS · A | [SpikingVTG: A Spiking Detection Transformer for Video Temporal Grounding](https://doi.org/10.52202/085713-1607) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.52202/085713-1607) |
+| 2025 | NeurIPS · A | [Time-R1: Post-Training Large Vision Language Model for Temporal Video Grounding](https://doi.org/10.52202/085713-2793) | 大模型、强化学习与推理 | [Paper](https://doi.org/10.52202/085713-2793) · [arXiv](https://arxiv.org/abs/2503.13377) · [Code](https://github.com/xiaomi-research/time-r1) |
+| 2025 | NeurIPS · A | [Uncertainty-quantified Rollout Policy Adaptation for Unlabelled Cross-domain Video Temporal Grounding](https://doi.org/10.52202/085713-1498) | 弱监督、去偏与泛化、强化学习与推理 | [Paper](https://doi.org/10.52202/085713-1498) |
+| 2025 | NeurIPS · A | [Universal Video Temporal Grounding with Generative Multi-modal Large Language Models](https://doi.org/10.52202/085713-2159) | 大模型 | [Paper](https://doi.org/10.52202/085713-2159) |
+| 2025 | NeurIPS · A | [When One Moment Isn't Enough: Multi-Moment Retrieval with Cross-Moment Interactions](https://doi.org/10.52202/085713-5715) | 多句与多区间 | [Paper](https://doi.org/10.52202/085713-5715) |
+| 2024 | NeurIPS · A | [E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding](https://doi.org/10.52202/079017-1009) | 数据与评测、时序证据问答 | [Paper](https://doi.org/10.52202/079017-1009) · [arXiv](https://arxiv.org/abs/2409.18111) |
+| 2024 | NeurIPS · A | [SlowFocus: Enhancing Fine-grained Temporal Understanding in Video LLM](https://doi.org/10.52202/079017-2599) | 大模型 | [Paper](https://doi.org/10.52202/079017-2599) · [Code](https://github.com/fudan-zvg/SlowFocus) |
+| 2024 | NeurIPS · A | [Temporal Sentence Grounding with Relevance Feedback in Videos](https://doi.org/10.52202/079017-1365) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.52202/079017-1365) |
+| 2024 | NeurIPS · A | [VERIFIED: A Video Corpus Moment Retrieval Benchmark for Fine-Grained Video Understanding](https://doi.org/10.52202/079017-1278) | 视频库检索、数据与评测 | [Paper](https://doi.org/10.52202/079017-1278) · [Code](https://github.com/hlchen23/VERIFIED) |
+| 2023 | NeurIPS · A | [MomentDiff: Generative Video Moment Retrieval from Random to Real](https://doi.org/10.52202/075280-2880) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.52202/075280-2880) · [Code](https://github.com/IMCCretrieval/MomentDiff) |
+| 2023 | NeurIPS · A | [Self-Chained Image-Language Model for Video Localization and Question Answering](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f22a9af8dbb348952b08bd58d4734b50-Abstract-Conference.html)（时序证据 QA） | 大模型、时序证据问答 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f22a9af8dbb348952b08bd58d4734b50-Abstract-Conference.html) · [Code](https://github.com/Yui010206/SeViLA) |
+| 2021 | NeurIPS · A | [Detecting Moments and Highlights in Videos via Natural Language Queries](https://proceedings.neurips.cc/paper_files/paper/2021/hash/62e0973455fd26eb03e91d5741a4a3bb-Abstract.html) | 联合检索与高亮、数据与评测 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/62e0973455fd26eb03e91d5741a4a3bb-Abstract.html) · [arXiv](https://arxiv.org/abs/2107.09609) · [Code](https://github.com/jayleicn/moment_detr) |
+| 2019 | NeurIPS · A | [Semantic Conditioned Dynamic Modulation for Temporal Sentence Grounding in Videos](https://proceedings.neurips.cc/paper_files/paper/2019/hash/6883966fd8f918a4aa29be29d2c386fb-Abstract.html) | 跨模态定位与边界建模 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/6883966fd8f918a4aa29be29d2c386fb-Abstract.html) · [Code](https://github.com/yytzsy/SCDM) |
+
+### SIGIR · CCF A（10）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | SIGIR · A | [From Interference to Stability: Adversarial Reliability Correction for Video Moment Retrieval with Relevance Feedback](https://doi.org/10.1145/3805712.3809564) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3805712.3809564) |
+| 2026 | SIGIR · A | [Generation-Augmented Video Corpus Moment Retrieval](https://doi.org/10.1145/3805712.3809742) | 视频库检索 | [Paper](https://doi.org/10.1145/3805712.3809742) |
+| 2025 | SIGIR · A | [Gaming for Boundary: Elastic Localization for Frame-Supervised Video Moment Retrieval](https://doi.org/10.1145/3726302.3729984) | 点监督与低标注 | [Paper](https://doi.org/10.1145/3726302.3729984) |
+| 2025 | SIGIR · A | [TVR-Ranking: A Dataset for Ranked Video Moment Retrieval with Imprecise Queries](https://doi.org/10.1145/3767695.3769516) | 视频库检索、数据与评测 | [Paper](https://doi.org/10.1145/3767695.3769516) |
+| 2022 | SIGIR · A | [Video Moment Retrieval from Text Queries via Single Frame Annotation](https://doi.org/10.1145/3477495.3532078) | 点监督与低标注 | [Paper](https://doi.org/10.1145/3477495.3532078) · [Code](https://github.com/r-cui/ViGA) |
+| 2022 | SIGIR · A | [You Need to Read Again: Multi-granularity Perception Network for Moment Retrieval in Videos](https://doi.org/10.1145/3477495.3532083) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3477495.3532083) · [Code](https://github.com/Huntersxsx/MGPN) |
+| 2021 | SIGIR · A | [Deconfounded Video Moment Retrieval with Causal Intervention](https://doi.org/10.1145/3404835.3462823) | 去偏与泛化 | [Paper](https://doi.org/10.1145/3404835.3462823) · [Code](https://github.com/Xun-Yang/Causal_Video_Moment_Retrieval) |
+| 2021 | SIGIR · A | [Video Corpus Moment Retrieval with Contrastive Learning](https://doi.org/10.1145/3404835.3462874) | 视频库检索 | [Paper](https://doi.org/10.1145/3404835.3462874) |
+| 2019 | SIGIR · A | [Cross-Modal Interaction Networks for Query-Based Moment Retrieval in Videos](https://doi.org/10.1145/3331184.3331235) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3331184.3331235) · [Code](https://github.com/ikuinen/CMIN_moment_retrieval) |
+| 2018 | SIGIR · A | [Attentive Moment Retrieval in Videos](https://doi.org/10.1145/3209978.3210003) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3209978.3210003) |
+
+## 期刊
+
+### CVIU · CCF B（3）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2024 | CVIU · B | [End-to-end dense video grounding via parallel regression](https://doi.org/10.1016/j.cviu.2024.103980) | 多句与多区间 | [Paper](https://doi.org/10.1016/j.cviu.2024.103980) |
+| 2024 | CVIU · B | [Sparse graph matching network for temporal language localization in videos](https://doi.org/10.1016/j.cviu.2023.103908) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1016/j.cviu.2023.103908) |
+| 2022 | CVIU · B | [Learning to combine the modalities of language and video for temporal moment localization](https://doi.org/10.1016/j.cviu.2022.103375) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1016/j.cviu.2022.103375) |
+
+### IJCV · CCF A（3）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | IJCV · A | [Collaborative Temporal Consistency Learning for Point-supervised Natural Language Video Localization](https://doi.org/10.1007/s11263-026-02777-4) | 点监督与低标注 | [Paper](https://doi.org/10.1007/s11263-026-02777-4) |
+| 2026 | IJCV · A | [Large-Scale Pre-Trained Models Empowering Phrase Generalization in Temporal Sentence Localization](https://doi.org/10.1007/s11263-025-02599-w) | 去偏与泛化 | [Paper](https://doi.org/10.1007/s11263-025-02599-w) |
+| 2022 | IJCV · A | [Weakly Supervised Moment Localization with Decoupled Consistent Concept Prediction](https://doi.org/10.1007/s11263-022-01600-0) | 弱监督 | [Paper](https://doi.org/10.1007/s11263-022-01600-0) |
+
+### IPM · CCF B（2）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2023 | IPM · B | [Reducing 0s bias in video moment retrieval with a circular competence-based captioner](https://doi.org/10.1016/j.ipm.2022.103147) | 去偏与泛化 | [Paper](https://doi.org/10.1016/j.ipm.2022.103147) |
+| 2019 | IPM · B | [SLTFNet: A spatial and language-temporal tensor fusion network for video moment retrieval](https://doi.org/10.1016/j.ipm.2019.102104) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1016/j.ipm.2019.102104) |
+
+### Information Sciences · CCF B（2）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | Information Sciences · B | [Two birds with one stone: Query-dependent moment retrieval in muted video or audio via inter-token interactions](https://doi.org/10.1016/j.ins.2025.122771) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1016/j.ins.2025.122771) |
+| 2025 | Information Sciences · B | [AutoVMR: An autonomous event generation and localization approach for video moment retrieval](https://doi.org/10.1016/j.ins.2025.122615) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1016/j.ins.2025.122615) |
+
+### Neural Networks · CCF B（1）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | Neural Networks · B | [TDP-DETR: Temporal dynamics perception framework for video moment retrieval and highlight detection](https://doi.org/10.1016/j.neunet.2026.109063) | 联合检索与高亮 | [Paper](https://doi.org/10.1016/j.neunet.2026.109063) |
+
+### PR · CCF B（6）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | PR · B | [Correlation-guided calibration of query dependency for video temporal grounding](https://doi.org/10.1016/j.patcog.2025.112984) | 联合检索与高亮 | [Paper](https://doi.org/10.1016/j.patcog.2025.112984) · [arXiv](https://arxiv.org/abs/2311.08835) · [Code](https://github.com/wjun0830/CGDETR) |
+| 2026 | PR · B | [Learning unified patterns of multimodalities for video temporal grounding](https://doi.org/10.1016/j.patcog.2025.112484) | 联合检索与高亮 | [Paper](https://doi.org/10.1016/j.patcog.2025.112484) |
+| 2025 | PR · B | [Adversarial temporal sentence grounding by learning from external data](https://doi.org/10.1016/j.patcog.2025.111621) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1016/j.patcog.2025.111621) |
+| 2025 | PR · B | [MLLM as video narrator: Mitigating modality imbalance in video moment retrieval](https://doi.org/10.1016/j.patcog.2025.111670) | 大模型 | [Paper](https://doi.org/10.1016/j.patcog.2025.111670) |
+| 2025 | PR · B | [Scene-enhanced multi-scale temporal aware network for video moment retrieval](https://doi.org/10.1016/j.patcog.2025.111642) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1016/j.patcog.2025.111642) |
+| 2024 | PR · B | [Triadic temporal-semantic alignment for weakly-supervised video moment retrieval](https://doi.org/10.1016/j.patcog.2024.110819) | 弱监督 | [Paper](https://doi.org/10.1016/j.patcog.2024.110819) |
+
+### TACL · CCF B（1）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2013 | TACL · B | [Grounding Action Descriptions in Videos](https://aclanthology.org/Q13-1003/) | 数据与评测 | [Paper](https://aclanthology.org/Q13-1003/) |
+
+### TCSVT · CCF B（25）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | TCSVT · B | [Annotation-Efficient Hybrid Learning for Temporal Sentence Grounding](https://doi.org/10.1109/tcsvt.2025.3603110) | 点监督与低标注、长视频与效率 | [Paper](https://doi.org/10.1109/tcsvt.2025.3603110) |
+| 2026 | TCSVT · B | [Efficient Pre-Trained Semantics Refinement for Video Temporal Grounding](https://doi.org/10.1109/tcsvt.2025.3572567) | 长视频与效率 | [Paper](https://doi.org/10.1109/tcsvt.2025.3572567) |
+| 2026 | TCSVT · B | [FedTVG: Personalized Federated Temporal Video Grounding over Heterogeneous Data](https://doi.org/10.1109/tcsvt.2026.3728702) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tcsvt.2026.3728702) |
+| 2026 | TCSVT · B | [HCMNet: Hierarchical Concept Matching for Video Temporal Grounding](https://doi.org/10.1109/tcsvt.2026.3730727) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tcsvt.2026.3730727) |
+| 2026 | TCSVT · B | [Mismatched Pairs Dynamic Correction for Cross-Modal Alignment in Video Moment Retrieval](https://doi.org/10.1109/tcsvt.2026.3680533) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tcsvt.2026.3680533) |
+| 2026 | TCSVT · B | [Video Corpus Moment Retrieval via Decoupled Multimodal Modeling and Unified Localization](https://doi.org/10.1109/tcsvt.2026.3705906) | 视频库检索 | [Paper](https://doi.org/10.1109/tcsvt.2026.3705906) |
+| 2025 | TCSVT · B | [Fine-Grained Modality Relation-Aware Network for Video Moment Retrieval](https://doi.org/10.1109/tcsvt.2024.3494744) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tcsvt.2024.3494744) |
+| 2025 | TCSVT · B | [Improving Video Moment Retrieval by Auxiliary Moment-Query Pairs With Hyper-Interaction](https://doi.org/10.1109/tcsvt.2024.3513633) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tcsvt.2024.3513633) |
+| 2025 | TCSVT · B | [Learning to Diversify for Robust Video Moment Retrieval](https://doi.org/10.1109/tcsvt.2024.3498599) | 去偏与泛化 | [Paper](https://doi.org/10.1109/tcsvt.2024.3498599) |
+| 2025 | TCSVT · B | [Prompt-Augmented Boundary Attentive Learning for Weakly Supervised Temporal Sentence Grounding](https://doi.org/10.1109/tcsvt.2025.3573746) | 弱监督 | [Paper](https://doi.org/10.1109/tcsvt.2025.3573746) |
+| 2025 | TCSVT · B | [Query as Supervision: Toward Low-Cost and Robust Video Moment and Highlight Retrieval](https://doi.org/10.1109/tcsvt.2024.3510950) | 去偏与泛化、联合检索与高亮 | [Paper](https://doi.org/10.1109/tcsvt.2024.3510950) |
+| 2025 | TCSVT · B | [Video Corpus Moment Retrieval With Query-Specific Context Learning and Progressive Localization](https://doi.org/10.1109/tcsvt.2025.3530570) | 视频库检索 | [Paper](https://doi.org/10.1109/tcsvt.2025.3530570) |
+| 2025 | TCSVT · B | [Weakly Supervised Temporal Sentence Grounding via Positive Sample Mining](https://doi.org/10.1109/tcsvt.2025.3562249) | 弱监督 | [Paper](https://doi.org/10.1109/tcsvt.2025.3562249) |
+| 2024 | TCSVT · B | [Collaborative Debias Strategy for Temporal Sentence Grounding in Video](https://doi.org/10.1109/tcsvt.2024.3413074) | 去偏与泛化 | [Paper](https://doi.org/10.1109/tcsvt.2024.3413074) |
+| 2024 | TCSVT · B | [Modality-Aware Heterogeneous Graph for Joint Video Moment Retrieval and Highlight Detection](https://doi.org/10.1109/tcsvt.2024.3389024) | 联合检索与高亮 | [Paper](https://doi.org/10.1109/tcsvt.2024.3389024) |
+| 2024 | TCSVT · B | [Momentum Cross-Modal Contrastive Learning for Video Moment Retrieval](https://doi.org/10.1109/tcsvt.2023.3344097) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tcsvt.2023.3344097) |
+| 2024 | TCSVT · B | [Subtask Prior-Driven Optimized Mechanism on Joint Video Moment Retrieval and Highlight Detection](https://doi.org/10.1109/tcsvt.2024.3409897) | 联合检索与高亮 | [Paper](https://doi.org/10.1109/tcsvt.2024.3409897) |
+| 2024 | TCSVT · B | [Video Corpus Moment Retrieval via Deformable Multigranularity Feature Fusion and Adversarial Training](https://doi.org/10.1109/tcsvt.2023.3294567) | 视频库检索 | [Paper](https://doi.org/10.1109/tcsvt.2023.3294567) |
+| 2023 | TCSVT · B | [Few-Shot Temporal Sentence Grounding via Memory-Guided Semantic Learning](https://doi.org/10.1109/tcsvt.2022.3223725) | 点监督与低标注 | [Paper](https://doi.org/10.1109/tcsvt.2022.3223725) |
+| 2023 | TCSVT · B | [SaGCN: Semantic-Aware Graph Calibration Network for Temporal Sentence Grounding](https://doi.org/10.1109/tcsvt.2022.3226488) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tcsvt.2022.3226488) |
+| 2023 | TCSVT · B | [Video Moment Retrieval via Comprehensive Relation-Aware Network](https://doi.org/10.1109/tcsvt.2023.3250518) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tcsvt.2023.3250518) |
+| 2022 | TCSVT · B | [Efficient Video Grounding With Which-Where Reading Comprehension](https://doi.org/10.1109/tcsvt.2022.3174136) | 长视频与效率 | [Paper](https://doi.org/10.1109/tcsvt.2022.3174136) |
+| 2022 | TCSVT · B | [Learning Video Moment Retrieval Without a Single Annotated Video](https://doi.org/10.1109/tcsvt.2021.3075470) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tcsvt.2021.3075470) |
+| 2022 | TCSVT · B | [Temporal Moment Localization via Natural Language by Utilizing Video Question Answers as a Special Variant and Bypassing NLP for Corpora](https://doi.org/10.1109/tcsvt.2022.3162650)（时序证据 QA） | 时序证据问答 | [Paper](https://doi.org/10.1109/tcsvt.2022.3162650) |
+| 2022 | TCSVT · B | [Thinking Inside Uncertainty: Interest Moment Perception for Diverse Temporal Grounding](https://doi.org/10.1109/tcsvt.2022.3179314) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tcsvt.2022.3179314) |
+
+### TIP · CCF A（17）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | TIP · A | [ActPrompt: In-Domain Feature Adaptation via Action Cues for Video Temporal Grounding](https://doi.org/10.1109/tip.2026.3671609) | 去偏与泛化 | [Paper](https://doi.org/10.1109/tip.2026.3671609) |
+| 2026 | TIP · A | [An Episode Memory-Guided Dual-Stage Framework for Long-Form Video Temporal Grounding](https://doi.org/10.1109/tip.2026.3705206) | 长视频与效率 | [Paper](https://doi.org/10.1109/tip.2026.3705206) |
+| 2026 | TIP · A | [Collaborated With Hallucination: Enhancing Egocentric Grounded Question Answering via Error Demonstrations](https://doi.org/10.1109/tip.2026.3666732)（时序证据 QA） | 时序证据问答 | [Paper](https://doi.org/10.1109/tip.2026.3666732) |
+| 2026 | TIP · A | [Training-Free Video Corpus Moment Retrieval via Synergistic Collaboration and Adaptive Calibration](https://doi.org/10.1109/tip.2026.3723243) | 视频库检索、零样本与训练自由 | [Paper](https://doi.org/10.1109/tip.2026.3723243) |
+| 2025 | TIP · A | [Caption Assisted Multimodal Large Language Model for Video Moment Retrieval](https://doi.org/10.1109/tip.2025.3620124) | 大模型 | [Paper](https://doi.org/10.1109/tip.2025.3620124) · [Code](https://github.com/tjhd1475/CALCE) |
+| 2024 | TIP · A | [Zero-Shot Video Grounding With Pseudo Query Lookup and Verification](https://doi.org/10.1109/tip.2024.3365249) | 零样本与训练自由 | [Paper](https://doi.org/10.1109/tip.2024.3365249) |
+| 2022 | TIP · A | [Exploring Language Hierarchy for Video Grounding](https://doi.org/10.1109/tip.2022.3187288) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tip.2022.3187288) |
+| 2022 | TIP · A | [HiSA: Hierarchically Semantic Associating for Video Temporal Grounding](https://doi.org/10.1109/tip.2022.3191841) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tip.2022.3191841) · [Code](https://github.com/zhexu1997/HiSA) |
+| 2022 | TIP · A | [Video Moment Retrieval With Cross-Modal Neural Architecture Search](https://doi.org/10.1109/tip.2022.3140611) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tip.2022.3140611) · [Code](https://github.com/Xun-Yang/VMR-CMAS) |
+| 2021 | TIP · A | [Coarse-to-Fine Semantic Alignment for Cross-Modal Moment Localization](https://doi.org/10.1109/tip.2021.3090521) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tip.2021.3090521) |
+| 2021 | TIP · A | [Interaction-Integrated Network for Natural Language Moment Localization](https://doi.org/10.1109/tip.2021.3052086) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tip.2021.3052086) |
+| 2021 | TIP · A | [Local Correspondence Network for Weakly Supervised Temporal Sentence Grounding](https://doi.org/10.1109/tip.2021.3058614) | 弱监督 | [Paper](https://doi.org/10.1109/tip.2021.3058614) |
+| 2021 | TIP · A | [MABAN: Multi-Agent Boundary-Aware Network for Natural Language Moment Retrieval](https://doi.org/10.1109/tip.2021.3086591) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tip.2021.3086591) |
+| 2021 | TIP · A | [Multi-Modal Interaction Graph Convolutional Network for Temporal Language Localization in Videos](https://doi.org/10.1109/tip.2021.3113791) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tip.2021.3113791) |
+| 2021 | TIP · A | [Text-Based Localization of Moments in a Video Corpus](https://doi.org/10.1109/tip.2021.3120038) | 视频库检索 | [Paper](https://doi.org/10.1109/tip.2021.3120038) |
+| 2021 | TIP · A | [Video Moment Localization via Deep Cross-Modal Hashing](https://doi.org/10.1109/tip.2021.3073867) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tip.2021.3073867) |
+| 2020 | TIP · A | [Moment Retrieval via Cross-Modal Interaction Networks With Query Reconstruction](https://doi.org/10.1109/tip.2020.2965987) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tip.2020.2965987) |
+
+### TITS · CCF B（1）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2022 | TITS · B | [Multi-Level Query Interaction for Temporal Language Grounding](https://doi.org/10.1109/tits.2021.3110713) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tits.2021.3110713) |
+
+### TMM · CCF A（37）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | TMM · A | [Dynamic Graph-enhanced Event Refinement for Temporal Sentence Grounding of Micro-moments](https://doi.org/10.1109/tmm.2026.3695790) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2026.3695790) |
+| 2026 | TMM · A | [EFIN: A Novel Enhanced Feature Interaction Network for Temporal Sentence Grounding in Videos](https://doi.org/10.1109/tmm.2026.3654403) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2026.3654403) |
+| 2026 | TMM · A | [Finding Optimal Video Moment Without Training: Gaussian Boundary Optimization for Weakly Supervised Video Grounding](https://doi.org/10.1109/tmm.2026.3675439) | 弱监督、零样本与训练自由 | [Paper](https://doi.org/10.1109/tmm.2026.3675439) |
+| 2026 | TMM · A | [From a Glance to a Boundary: Uncertainty-Aware Distillation for Glance-Supervised Video Moment Localization](https://doi.org/10.1109/tmm.2026.3684717) | 点监督与低标注 | [Paper](https://doi.org/10.1109/tmm.2026.3684717) |
+| 2026 | TMM · A | [Generalizing Beyond Patterns: Dynamic Moment Query Recalibrating for Out-of-Distribution Video Temporal Localization](https://doi.org/10.1109/tmm.2026.3684315) | 去偏与泛化 | [Paper](https://doi.org/10.1109/tmm.2026.3684315) |
+| 2026 | TMM · A | [Grounding is All You Need? Dual Temporal Grounding for Video Dialog](https://doi.org/10.1109/tmm.2026.3668656) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2026.3668656) |
+| 2026 | TMM · A | [Holistic Timestamp Alignment for Bidirectional Timestamp-Event Consistency in Video Temporal Grounding](https://doi.org/10.1109/tmm.2026.3734753) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2026.3734753) |
+| 2026 | TMM · A | [Hybrid Debiasing Transformer With Adaptive Regularization for Video Moment Localization](https://doi.org/10.1109/tmm.2026.3655467) | 去偏与泛化 | [Paper](https://doi.org/10.1109/tmm.2026.3655467) |
+| 2026 | TMM · A | [Learning Visual-Audio Dissonance for Moment Retrieval and Highlight Detection](https://doi.org/10.1109/tmm.2026.3685800) | 联合检索与高亮 | [Paper](https://doi.org/10.1109/tmm.2026.3685800) |
+| 2026 | TMM · A | [PointDiff: Conditional Diffusion Model for Point-Supervised Video Moment Retrieval](https://doi.org/10.1109/tmm.2026.3676163) | 点监督与低标注 | [Paper](https://doi.org/10.1109/tmm.2026.3676163) |
+| 2026 | TMM · A | [SMART: Shot-Aware Multimodal Video Moment Retrieval with Audio-Enhanced MLLM](https://doi.org/10.1109/tmm.2026.3723610) | 大模型 | [Paper](https://doi.org/10.1109/tmm.2026.3723610) |
+| 2026 | TMM · A | [TBSG-Net: Temporal Bipartite Scene Graph Network for Fine-Grained Video Moment Retrieval](https://doi.org/10.1109/tmm.2026.3722447) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2026.3722447) |
+| 2026 | TMM · A | [Textual and Temporal-Guided Feature Decoupling for Video Temporal Grounding](https://doi.org/10.1109/tmm.2026.3722446) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2026.3722446) |
+| 2026 | TMM · A | [Weakly Semi-Supervised Temporal Sentence Grounding in Videos With Point Annotations](https://doi.org/10.1109/tmm.2026.3651062) | 弱监督、点监督与低标注 | [Paper](https://doi.org/10.1109/tmm.2026.3651062) |
+| 2025 | TMM · A | [Aggregate and Discriminate: Pseudo Clips-Guided Boundary Perception for Video Moment Retrieval](https://doi.org/10.1109/tmm.2025.3542894) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2025.3542894) |
+| 2025 | TMM · A | [Context-Enhanced Video Moment Retrieval With Large Language Models](https://doi.org/10.1109/tmm.2025.3581797) | 大模型 | [Paper](https://doi.org/10.1109/tmm.2025.3581797) |
+| 2025 | TMM · A | [Dual Semantic Reconstruction Network for Weakly Supervised Temporal Sentence Grounding](https://doi.org/10.1109/tmm.2024.3521676) | 弱监督 | [Paper](https://doi.org/10.1109/tmm.2024.3521676) |
+| 2025 | TMM · A | [ETC: Temporal Boundary Expand Then Clarify for Weakly Supervised Video Grounding With Multimodal Large Language Model](https://doi.org/10.1109/tmm.2024.3521758) | 弱监督、大模型 | [Paper](https://doi.org/10.1109/tmm.2024.3521758) |
+| 2025 | TMM · A | [HCFMN: Hierarchical Cross-Modal Fine-Grained Mining Network for Temporal Sentence Grounding](https://doi.org/10.1109/tmm.2025.3586156) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2025.3586156) |
+| 2024 | TMM · A | [Conditional Video Diffusion Network for Fine-Grained Temporal Sentence Grounding](https://doi.org/10.1109/tmm.2023.3334019) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2023.3334019) |
+| 2024 | TMM · A | [Cross-Modality Knowledge Calibration Network for Video Corpus Moment Retrieval](https://doi.org/10.1109/tmm.2023.3316025) | 视频库检索 | [Paper](https://doi.org/10.1109/tmm.2023.3316025) |
+| 2024 | TMM · A | [DPHANet: Discriminative Parallel and Hierarchical Attention Network for Natural Language Video Localization](https://doi.org/10.1109/tmm.2024.3395888) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2024.3395888) |
+| 2024 | TMM · A | [Gist, Content, Target-Oriented: A 3-Level Human-Like Framework for Video Moment Retrieval](https://doi.org/10.1109/tmm.2024.3443672) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2024.3443672) |
+| 2024 | TMM · A | [Hierarchical Local-Global Transformer for Temporal Sentence Grounding](https://doi.org/10.1109/tmm.2023.3309551) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2023.3309551) |
+| 2024 | TMM · A | [Relational Network via Cascade CRF for Video Language Grounding](https://doi.org/10.1109/tmm.2023.3303712) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2023.3303712) |
+| 2024 | TMM · A | [Rethinking Video Sentence Grounding From a Tracking Perspective With Memory Network and Masked Attention](https://doi.org/10.1109/tmm.2024.3453062) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2024.3453062) |
+| 2024 | TMM · A | [Zero-Shot Video Moment Retrieval With Angular Reconstructive Text Embeddings](https://doi.org/10.1109/tmm.2024.3396272) | 零样本与训练自由 | [Paper](https://doi.org/10.1109/tmm.2024.3396272) |
+| 2023 | TMM · A | [Exploring Optical-Flow-Guided Motion and Detection-Based Appearance for Temporal Sentence Grounding](https://doi.org/10.1109/tmm.2023.3238514) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2023.3238514) |
+| 2023 | TMM · A | [Language-Guided Multi-Granularity Context Aggregation for Temporal Sentence Grounding](https://doi.org/10.1109/tmm.2022.3222664) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2022.3222664) |
+| 2023 | TMM · A | [Multi-Modal Cross-Domain Alignment Network for Video Moment Retrieval](https://doi.org/10.1109/tmm.2022.3222965) | 去偏与泛化 | [Paper](https://doi.org/10.1109/tmm.2022.3222965) |
+| 2023 | TMM · A | [Point-Supervised Video Temporal Grounding](https://doi.org/10.1109/tmm.2022.3205404) | 点监督与低标注 | [Paper](https://doi.org/10.1109/tmm.2022.3205404) |
+| 2023 | TMM · A | [Self-Supervised Learning for Semi-Supervised Temporal Language Grounding](https://doi.org/10.1109/tmm.2022.3228167) | 点监督与低标注 | [Paper](https://doi.org/10.1109/tmm.2022.3228167) |
+| 2023 | TMM · A | [Semantic Relevance Learning for Video-Query Based Video Moment Retrieval](https://doi.org/10.1109/tmm.2023.3250088) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2023.3250088) |
+| 2023 | TMM · A | [Siamese Alignment Network for Weakly Supervised Video Moment Retrieval](https://doi.org/10.1109/tmm.2022.3168424) | 弱监督 | [Paper](https://doi.org/10.1109/tmm.2022.3168424) |
+| 2022 | TMM · A | [Cross-Modal Dynamic Networks for Video Moment Retrieval With Text Query](https://doi.org/10.1109/tmm.2022.3142420) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2022.3142420) |
+| 2022 | TMM · A | [Frame-Wise Cross-Modal Matching for Video Moment Retrieval](https://doi.org/10.1109/tmm.2021.3063631) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tmm.2021.3063631) · [Code](https://github.com/tanghaoyu258/ACRM-for-moment-retrieval) |
+| 2022 | TMM · A | [Regularized Two Granularity Loss Function for Weakly Supervised Video Moment Retrieval](https://doi.org/10.1109/tmm.2021.3120545) | 弱监督 | [Paper](https://doi.org/10.1109/tmm.2021.3120545) |
+
+### TNNLS · CCF B（3）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2025 | TNNLS · B | [DiffusionVMR: Diffusion Model for Joint Video Moment Retrieval and Highlight Detection](https://doi.org/10.1109/tnnls.2024.3516033) | 联合检索与高亮 | [Paper](https://doi.org/10.1109/tnnls.2024.3516033) |
+| 2024 | TNNLS · B | [M2DCapsN: Multimodal, Multichannel, and Dual-Step Capsule Network for Natural Language Moment Localization](https://doi.org/10.1109/tnnls.2023.3261927) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tnnls.2023.3261927) |
+| 2024 | TNNLS · B | [Video Moment Retrieval With Noisy Labels](https://doi.org/10.1109/tnnls.2022.3212900) | 去偏与泛化 | [Paper](https://doi.org/10.1109/tnnls.2022.3212900) |
+
+### TOIS · CCF A（3）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | TOIS · A | [Cross-modal Representation Shift Refinement for Point-supervised Video Moment Retrieval](https://doi.org/10.1145/3786606) | 点监督与低标注 | [Paper](https://doi.org/10.1145/3786606) |
+| 2024 | TOIS · A | [Unsupervised Video Moment Retrieval with Knowledge-Based Pseudo-Supervision Construction](https://doi.org/10.1145/3701229) | 弱监督 | [Paper](https://doi.org/10.1145/3701229) |
+| 2023 | TOIS · A | [Semantic Collaborative Learning for Cross-Modal Moment Localization](https://doi.org/10.1145/3620669) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3620669) |
+
+### TOMM · CCF B（12）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | TOMM · B | [A Reciprocal Interaction Framework for Collaborative Temporal Grounding and Question Answering in Egocentric Videos](https://doi.org/10.1145/3820781)（时序证据 QA） | 时序证据问答 | [Paper](https://doi.org/10.1145/3820781) |
+| 2026 | TOMM · B | [Resilient Semantic Pseudo-Text Embedding for Zero-Shot Video Moment Retrieval](https://doi.org/10.1145/3796721) | 零样本与训练自由 | [Paper](https://doi.org/10.1145/3796721) |
+| 2026 | TOMM · B | [Streaming Video Moment Retrieval via Temporal Forecast Diffusion Model](https://doi.org/10.1145/3849706) | 在线与流式 | [Paper](https://doi.org/10.1145/3849706) |
+| 2025 | TOMM · B | [ADTC: Adaptive Dual-Stage Tree Construction for Point-Supervised Video Moment Retrieval](https://doi.org/10.1145/3744651) | 点监督与低标注 | [Paper](https://doi.org/10.1145/3744651) |
+| 2024 | TOMM · B | [Learning Commonsense-aware Moment-Text Alignment for Fast Video Temporal Grounding](https://doi.org/10.1145/3663368) | 长视频与效率 | [Paper](https://doi.org/10.1145/3663368) |
+| 2024 | TOMM · B | [Transform-Equivariant Consistency Learning for Temporal Sentence Grounding](https://doi.org/10.1145/3634749) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3634749) |
+| 2023 | TOMM · B | [A Closer Look at Debiased Temporal Sentence Grounding in Videos: Dataset, Metric, and Approach](https://doi.org/10.1145/3565573) | 去偏与泛化、数据与评测 | [Paper](https://doi.org/10.1145/3565573) |
+| 2023 | TOMM · B | [A Survey on Temporal Sentence Grounding in Videos](https://doi.org/10.1145/3532626) | 数据与评测 | [Paper](https://doi.org/10.1145/3532626) |
+| 2023 | TOMM · B | [Progressive Localization Networks for Language-Based Moment Localization](https://doi.org/10.1145/3543857) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3543857) |
+| 2022 | TOMM · B | [Fine-Grained Text-to-Video Temporal Grounding from Coarse Boundary](https://doi.org/10.1145/3579825) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3579825) |
+| 2022 | TOMM · B | [Moment is Important: Language-Based Video Moment Retrieval via Adversarial Learning](https://doi.org/10.1145/3478025) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3478025) |
+| 2021 | TOMM · B | [Single-shot Semantic Matching Network for Moment Localization in Videos](https://doi.org/10.1145/3441577) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1145/3441577) |
+
+### TPAMI · CCF A（9）
+
+| 年份 | 会议／期刊 | 论文 | 方向 | 资源 |
+| --- | --- | --- | --- | --- |
+| 2026 | TPAMI · A | [A Survey on Video Temporal Grounding With Multimodal Large Language Model](https://doi.org/10.1109/tpami.2025.3615586) | 大模型、数据与评测 | [Paper](https://doi.org/10.1109/tpami.2025.3615586) · [arXiv](https://arxiv.org/abs/2508.10922) |
+| 2026 | TPAMI · A | [Knowledge Diffusion-Based Adaptive Alignment With Hierarchical Context for Video Temporal Grounding](https://doi.org/10.1109/tpami.2026.3694223) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tpami.2026.3694223) |
+| 2026 | TPAMI · A | [Weakly and Single-Frame Supervised Temporal Sentence Grounding With Gaussian-Based Contrastive Proposal Learning](https://doi.org/10.1109/tpami.2025.3644900) | 弱监督、点监督与低标注 | [Paper](https://doi.org/10.1109/tpami.2025.3644900) |
+| 2025 | TPAMI · A | [Unified Static and Dynamic Network: Efficient Temporal Filtering for Video Grounding](https://doi.org/10.1109/tpami.2025.3558854) | 长视频与效率、联合检索与高亮 | [Paper](https://doi.org/10.1109/tpami.2025.3558854) |
+| 2024 | TPAMI · A | [Towards Visual-Prompt Temporal Answer Grounding in Instructional Video](https://doi.org/10.1109/tpami.2024.3411045) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tpami.2024.3411045) |
+| 2023 | TPAMI · A | [Temporal Sentence Grounding in Videos: A Survey and Future Directions](https://doi.org/10.1109/tpami.2023.3258628) | 数据与评测 | [Paper](https://doi.org/10.1109/tpami.2023.3258628) · [arXiv](https://arxiv.org/abs/2201.08071) |
+| 2022 | TPAMI · A | [Multi-Scale 2D Temporal Adjacency Networks for Moment Localization With Natural Language](https://doi.org/10.1109/tpami.2021.3120745) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tpami.2021.3120745) |
+| 2021 | TPAMI · A | [Natural Language Video Localization: A Revisit in Span-based Question Answering Framework](https://doi.org/10.1109/tpami.2021.3060449)（时序证据 QA） | 时序证据问答 | [Paper](https://doi.org/10.1109/tpami.2021.3060449) |
+| 2020 | TPAMI · A | [Semantic Conditioned Dynamic Modulation for Temporal Sentence Grounding in Videos](https://doi.org/10.1109/tpami.2020.3038993) | 跨模态定位与边界建模 | [Paper](https://doi.org/10.1109/tpami.2020.3038993) · [Code](https://github.com/yytzsy/SCDM) |
