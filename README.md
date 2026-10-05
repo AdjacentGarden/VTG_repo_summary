@@ -10,8 +10,6 @@ A research collection for grounding language in video time.
 
 **[完整论文目录](papers/by-year.md)** &nbsp; · &nbsp; **[方法摘要](#selected-papers)** &nbsp; · &nbsp; **[数据集](#datasets)** &nbsp; · &nbsp; **[阅读路线](#reading-guide)**
 
-<img src="assets/vtg-overview.svg" alt="VTG 示意图：自然语言查询与视频时间证据对齐，输出起止时间区间" width="100%">
-
 <img src="assets/catalogue-stats.svg" alt="419 条发表记录、35 个会议与期刊、50 条中文摘要、92 个代码入口" width="100%">
 
 <sub>CCF A 278 · CCF B 141 &nbsp; / &nbsp; 会议 294 · 期刊 125 &nbsp; / &nbsp; 补充 11 条</sub>
