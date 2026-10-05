@@ -73,18 +73,20 @@ def main():
     for path in ROOT.rglob('*.md'):
         content = path.read_text(encoding='utf-8')
         require('/Users/' not in content, f'{path.relative_to(ROOT)}: private local path')
-        for href in re.findall(r'\]\(([^\s)]+)\)', content) + re.findall(r'<img[^>]+src="([^"]+)"', content):
+        for href in re.findall(r'\]\(([^\s)]+)\)', content) + re.findall(r'<(?:img|a)[^>]+(?:src|href)="([^"]+)"', content):
             href = href.strip('<>')
-            if urlsplit(href).scheme or href.startswith('#'):
+            if urlsplit(href).scheme:
                 continue
             filename, _, anchor = href.partition('#')
-            target = (path.parent / unquote(filename)).resolve()
+            target = (path.parent / unquote(filename)).resolve() if filename else path
             require(target.is_relative_to(ROOT), f'{path.relative_to(ROOT)}: link leaves repository')
             require(target.exists(), f'{path.relative_to(ROOT)}: missing {href}')
             if anchor and target.exists() and target.suffix == '.md':
                 body = target.read_text(encoding='utf-8')
                 require(f'id="{anchor}"' in body or any(heading_anchor(h) == anchor for h in re.findall(r'^#+\s+(.+)$', body, re.M)), f'{path.relative_to(ROOT)}: missing anchor {href}')
-    ElementTree.parse(ROOT / 'assets/vtg-overview.svg')
+    for svg in (ROOT / 'assets').glob('*.svg'):
+        ElementTree.parse(svg)
+    require('{{' not in (ROOT / 'README.md').read_text(encoding='utf-8'), 'Unexpanded README placeholder')
     stats = read('stats.json')
     require(stats['total'] == len(papers), 'Statistics out of sync')
     require(stats['supplementary'] == len(supplements), 'Supplement statistics out of sync')

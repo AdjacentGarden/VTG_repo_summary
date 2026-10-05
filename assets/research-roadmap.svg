@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="305" viewBox="0 0 1200 305" role="img" aria-labelledby="title desc">
+<title id="title">Video temporal grounding: a reading roadmap</title>
+<desc id="desc">Five stages connect language-time annotation, classical localization models, unified and long-video models, multimodal language models, and reliable multi-span grounding.</desc>
+<style>.bg{fill:#f6f8fc;stroke:#e3e8f0}.panel{fill:#fff;stroke:#e2e8f1}.heading{fill:#172238}.label{fill:#63748b}.line{stroke:#d4dce9}@media(prefers-color-scheme:dark){.bg{fill:#111a29;stroke:#2a3547}.panel{fill:#192336;stroke:#33405a}.heading{fill:#eef3fb}.label{fill:#acb9cd}.line{stroke:#3b4a65}}</style>
+<rect class="bg" x="1" y="1" width="1198" height="303" rx="18"/>
+<g font-family="system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,Noto Sans CJK SC,sans-serif">
+<text class="label" x="28" y="31" font-size="10" letter-spacing="2">RESEARCH EVOLUTION / A READING GUIDE</text>
+<path class="line" d="M54 88h1093" fill="none" stroke-width="2"/>
+<g fill="#8b7cf8"><circle cx="55" cy="88" r="6"/><circle cx="285" cy="88" r="6"/><circle cx="515" cy="88" r="6"/><circle cx="745" cy="88" r="6"/><circle cx="975" cy="88" r="6"/></g>
+<g class="heading" font-size="19" font-weight="700"><text x="28" y="65">2013–2018</text><text x="258" y="65">2019–2021</text><text x="488" y="65">2022–2023</text><text x="718" y="65">2024–2025</text><text x="948" y="65">2026</text></g>
+<g class="panel"><rect x="22" y="109" width="222" height="175" rx="11"/><rect x="252" y="109" width="222" height="175" rx="11"/><rect x="482" y="109" width="222" height="175" rx="11"/><rect x="712" y="109" width="222" height="175" rx="11"/><rect x="942" y="109" width="236" height="175" rx="11"/></g>
+<g class="heading" font-size="17" font-weight="650"><text x="39" y="142">语言与时间标注</text><text x="269" y="142">经典跨模态建模</text><text x="499" y="142">统一任务与长视频</text><text x="729" y="142">视频大模型与后训练</text><text x="959" y="142">多区间与可靠性</text></g>
+<g class="label" font-size="13">
+<text x="39" y="178">TACoS · CTRL · MCN</text><text x="39" y="202">TMN</text><text x="39" y="244">候选匹配 / 组合关系</text><text x="39" y="267">形成任务与数据基础</text>
+<text x="269" y="178">SCDM · ExCL · 2D-TAN</text><text x="269" y="202">VSLNet · Moment-DETR</text><text x="269" y="244">二维时间图 / 边界预测</text><text x="269" y="267">从匹配走向集合预测</text>
+<text x="499" y="178">MAD · CONE · QD-DETR</text><text x="499" y="202">UMT · UniVTG</text><text x="499" y="244">查询条件 / 统一监督</text><text x="499" y="267">扩展长视频与泛化能力</text>
+<text x="729" y="178">VTimeLLM · TimeChat</text><text x="729" y="202">TRACE · Time-R1</text><text x="729" y="244">时间表达 / 指令数据</text><text x="729" y="267">探索大模型与强化学习</text>
+<text x="959" y="178">TimeLens · OmniVTG</text><text x="959" y="202">MUSEG · TaRO · OMTG</text><text x="959" y="244">标注质量 / 区间集合</text><text x="959" y="267">走向开放集与可靠定位</text>
+</g>
+</g>
+</svg>

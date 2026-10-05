@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build repository indexes from checked-in metadata. No network or dependencies."""
 import argparse
+import html
 import csv
 import io
 import json
@@ -103,16 +104,71 @@ def build():
         bibs.append('@' + kind + '{' + p['id'] + ',\n' + ',\n'.join('  ' + k + ' = {' + bibvalue(v) + '}' for k, v in fields.items() if v) + '\n}\n')
     out['papers/references.bib'] = '\n'.join(bibs)
     a, b = stats['ccf_grades'].get('A', 0), stats['ccf_grades'].get('B', 0)
-    count = f"**主索引 {len(papers)} 条**：CCF A {a} 条、CCF B {b} 条；会议 {stats['publication_types'].get('conference',0)} 条、期刊 {stats['publication_types'].get('journal',0)} 条。另有 {len(supplements)} 条补充记录；{stats['with_chinese_summary']} 条主索引记录提供中文方法／资源摘要，{stats['with_code_link']} 条关联已核实的代码入口。\n\n"
-    count += '| 年份 | 条目 |\n| --- | --- |\n' + '\n'.join(f'| [{y}](papers/by-year.md#year-{y}) | {stats["by_year"][str(y)]} |' for y in years) + '\n'
+    summary_count = stats['with_chinese_summary']
+    stats_line = f"CCF A {a} · CCF B {b} &nbsp; / &nbsp; 会议 {stats['publication_types'].get('conference', 0)} · 期刊 {stats['publication_types'].get('journal', 0)} &nbsp; / &nbsp; 补充 {len(supplements)} 条"
+    stats_alt = f"{len(papers)} 条发表记录、{len(stats['by_venue'])} 个会议与期刊、{summary_count} 条中文摘要、{stats['with_code_link']} 个代码入口"
+    year_nav = '| ' + ' | '.join(f'**[{year}](papers/by-year.md#year-{year})**' for year in years) + ' |\n'
+    year_nav += '| ' + ' | '.join(':---:' for _ in years) + ' |\n'
+    year_nav += '| ' + ' | '.join(str(stats['by_year'][str(year)]) for year in years) + ' |\n'
+    venue_overview = '| 范围 | Venue（按 CCF 第七版） |\n| --- | --- |\n'
+    for kind, label in [('conference', '会议'), ('journal', '期刊')]:
+        for grade in ['A', 'B']:
+            names = sorted({p['venue'] for p in papers if p['publication_type'] == kind and p['ccf_grade'] == grade})
+            venue_overview += f"| {label} · CCF {grade} | {' · '.join(names)} |\n"
+    group_intro = {
+        '综述与基准': ('先建立术语、任务边界与数据来源的全景。', False),
+        '经典模型': ('从候选片段、组合推理到二维时间图与直接边界预测。', True),
+        '统一定位与高亮': ('关注 query conditioning、统一标注和定位边界表示。', True),
+        '多模态大模型': ('理解视频表示、时间编码、指令数据和事件生成。', False),
+        '长视频与训练自由': ('比较递归搜索、提示策略和预训练模型的使用方式。', False),
+        '强化学习与新任务': ('追踪后训练、多片段、开放集、可靠性与数据质量。', False),
+    }
     cards = ''
-    for group in GROUPS:
+    for number, group in enumerate(GROUPS, 1):
         xs = [p for p in papers if p.get('card_group') == group]
-        cards += f'### {group}\n\n'
+        intro, opened = group_intro[group]
+        cards += f'<details{" open" if opened else ""}>\n<summary><strong>{number:02d} · {group}</strong> &nbsp; <sub>{len(xs)} 条摘要</sub></summary>\n\n'
+        cards += intro + '\n\n| 论文 / 发表 | 核心思路与阅读关注点 | 资源 |\n| --- | --- | --- |\n'
         for p in sorted(xs, key=lambda p: (p['year'], p['venue'], p['title'])):
-            cards += f"- **[{p.get('display_name', p['title'])}]({p['paper_url']})** · {p['venue']} {p['year']} · CCF {p['ccf_grade']}\n\n  {p['summary_zh']}\n\n  {links(p)} · [索引记录](papers/by-year.md#{p['id']})\n\n"
+            title = html.escape(p['title'], quote=True)
+            name = html.escape(p.get('display_name', p['title']))
+            paper_link = f'<a href="{html.escape(p["paper_url"], quote=True)}" title="{title}"><strong>{name}</strong></a>'
+            metadata = f"<br><sub>{p['venue'].replace(' ', '&nbsp;')}&nbsp;{p['year']}&nbsp;·&nbsp;CCF&nbsp;{p['ccf_grade']}</sub>"
+            resources = []
+            if p.get('arxiv_url') and p['arxiv_url'] != p['paper_url']:
+                resources.append(f"[arXiv]({p['arxiv_url']})")
+            if p.get('code_url'):
+                resources.append(f"[Code]({p['code_url']})")
+            resources.append(f"[记录](papers/by-year.md#{p['id']})")
+            cards += '| ' + paper_link + metadata + ' | ' + esc(p['summary_zh']) + ' | ' + '<br>'.join(resources) + ' |\n'
+        cards += '\n</details>\n\n'
+    tiles = [
+        (str(len(papers)), 'PUBLICATION RECORDS', '相关发表记录', '#9A8AFF'),
+        (str(len(stats['by_venue'])), 'CONFERENCES & JOURNALS', '会议与期刊', '#5B9DDD'),
+        (str(summary_count), 'READING NOTES', '中文方法摘要', '#35BDA3'),
+        (str(stats['with_code_link']), 'CODE ENTRIES', '已核实代码入口', '#DAA85B'),
+    ]
+    svg = ['<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="152" viewBox="0 0 1200 152" role="img" aria-labelledby="title desc">',
+           '<title id="title">Catalogue at a glance</title>',
+           '<desc id="desc">' + html.escape(stats_alt) + '</desc>',
+           '<style>.tile{fill:#f6f8fc;stroke:#e3e8f0}.number{fill:#172238}.label{fill:#63748b}@media(prefers-color-scheme:dark){.tile{fill:#151e2c;stroke:#2a3547}.number{fill:#f1f5fc}.label{fill:#a7b6cc}}</style>',
+           '<g font-family="system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,Noto Sans CJK SC,sans-serif">']
+    for index, (value, label, caption, color) in enumerate(tiles):
+        x = index * 304
+        svg += [f'<rect class="tile" x="{x + 1}" y="8" width="286" height="132" rx="14"/>',
+                f'<rect x="{x + 22}" y="29" width="5" height="38" rx="2.5" fill="{color}"/>',
+                f'<text class="number" x="{x + 39}" y="65" font-size="40" font-weight="700">{value}</text>',
+                f'<text class="label" x="{x + 23}" y="95" font-size="10.5" letter-spacing="1.1">{html.escape(label)}</text>',
+                f'<text class="label" x="{x + 23}" y="120" font-size="15">{caption}</text>']
+    svg += ['</g>', '</svg>']
+    out['assets/catalogue-stats.svg'] = '\n'.join(svg) + '\n'
     template = (ROOT / 'docs' / 'README.template.md.in').read_text(encoding='utf-8')
-    out['README.md'] = template.replace('{{STATISTICS}}', count).replace('{{PAPER_CARDS}}', cards)
+    replacements = {'STATISTICS_LINE': stats_line, 'STATS_ALT': stats_alt, 'CHECKED_DATE': CHECKED.replace('-', '--'),
+                    'SUMMARY_COUNT': str(summary_count), 'SUPPLEMENTARY_COUNT': str(len(supplements)),
+                    'YEAR_NAVIGATION': year_nav, 'VENUE_OVERVIEW': venue_overview, 'PAPER_CARDS': cards}
+    for key, value in replacements.items():
+        template = template.replace('{{' + key + '}}', value)
+    out['README.md'] = template
     return {name: content.rstrip("\n") + "\n" for name, content in out.items()}
 
 def main():
